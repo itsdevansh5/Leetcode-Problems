@@ -29,4 +29,8 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
+## String
+|  |
+| ------- |
+| [3617-find-the-original-typed-string-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3617-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->
