@@ -33,4 +33,13 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [3617-find-the-original-typed-string-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
