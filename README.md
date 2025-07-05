@@ -14,11 +14,13 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0001-two-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0001-two-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0001-two-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,6 +33,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
