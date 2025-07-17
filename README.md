@@ -8,6 +8,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0007-reverse-integer](https://github.com/itsdevansh5/DSA-grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Array
@@ -46,6 +47,7 @@ This contains solutions of leetcode problems I solved..
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
@@ -59,6 +61,7 @@ This contains solutions of leetcode problems I solved..
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -73,4 +76,8 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0125-valid-palindrome) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
