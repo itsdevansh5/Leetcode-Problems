@@ -40,6 +40,7 @@ This contains solutions of leetcode problems I solved..
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0125-valid-palindrome) |
 | [3617-find-the-original-typed-string-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
@@ -68,4 +69,8 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
