@@ -6,6 +6,7 @@ This contains solutions of leetcode problems I solved..
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/itsdevansh5/DSA-grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0009-palindrome-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
