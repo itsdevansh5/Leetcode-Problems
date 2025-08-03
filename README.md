@@ -16,6 +16,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0001-two-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/itsdevansh5/DSA-grind/tree/master/0035-search-insert-position) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -87,5 +88,6 @@ This contains solutions of leetcode problems I solved..
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/itsdevansh5/DSA-grind/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
