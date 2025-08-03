@@ -17,6 +17,7 @@ This contains solutions of leetcode problems I solved..
 | [0001-two-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
+| [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/itsdevansh5/DSA-grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -83,4 +84,8 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
