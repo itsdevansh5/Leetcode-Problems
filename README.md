@@ -8,6 +8,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0007-reverse-integer](https://github.com/itsdevansh5/DSA-grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -18,6 +19,7 @@ This contains solutions of leetcode problems I solved..
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/itsdevansh5/DSA-grind/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -27,6 +29,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -37,6 +40,7 @@ This contains solutions of leetcode problems I solved..
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
@@ -61,6 +65,7 @@ This contains solutions of leetcode problems I solved..
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -91,5 +96,6 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/itsdevansh5/DSA-grind/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
