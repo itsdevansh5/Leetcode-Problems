@@ -8,6 +8,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0007-reverse-integer](https://github.com/itsdevansh5/DSA-grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -22,6 +23,7 @@ This contains solutions of leetcode problems I solved..
 | [0118-pascals-triangle](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/itsdevansh5/DSA-grind/tree/master/0283-move-zeroes) |
@@ -101,6 +103,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itsdevansh5/DSA-grind/tree/master/0283-move-zeroes) |
 ## Memoization
 |  |
