@@ -1,17 +1,17 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int>hashmap;
-        for(int i=0;i<nums.size();i++){
-            hashmap[nums[i]]++;
+        unordered_map<int,int>freq;
+        for(auto i:nums){
+            freq[i]++;
+
         }
-        int a;
-        for(auto it:hashmap){
-            if(it.second==1)
-             a= it.first;
+        int ans;
+        for(auto i:freq){
+            if(i.second==1)
+            ans=i.first;
+
         }
-        return a;
-        
-        
+        return ans;
     }
 };
