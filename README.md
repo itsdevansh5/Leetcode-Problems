@@ -20,6 +20,7 @@ This contains solutions of leetcode problems I solved..
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/itsdevansh5/DSA-grind/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0169-majority-element) |
@@ -50,6 +51,7 @@ This contains solutions of leetcode problems I solved..
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
@@ -102,6 +104,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itsdevansh5/DSA-grind/tree/master/0283-move-zeroes) |
