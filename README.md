@@ -23,6 +23,7 @@ This contains solutions of leetcode problems I solved..
 | [0035-search-insert-position](https://github.com/itsdevansh5/DSA-grind/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0169-majority-element) |
@@ -124,6 +125,7 @@ This contains solutions of leetcode problems I solved..
 | [0033-search-in-rotated-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/itsdevansh5/DSA-grind/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 ## Divide and Conquer
