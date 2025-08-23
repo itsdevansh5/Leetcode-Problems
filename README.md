@@ -22,6 +22,7 @@ This contains solutions of leetcode problems I solved..
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/itsdevansh5/DSA-grind/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/itsdevansh5/DSA-grind/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0118-pascals-triangle) |
@@ -129,6 +130,7 @@ This contains solutions of leetcode problems I solved..
 | [0033-search-in-rotated-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/itsdevansh5/DSA-grind/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/itsdevansh5/DSA-grind/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0162-find-peak-element) |
@@ -144,4 +146,5 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/itsdevansh5/DSA-grind/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
