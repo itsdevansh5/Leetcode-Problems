@@ -45,6 +45,7 @@ This contains solutions of leetcode problems I solved..
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/itsdevansh5/DSA-grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/itsdevansh5/DSA-grind/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
