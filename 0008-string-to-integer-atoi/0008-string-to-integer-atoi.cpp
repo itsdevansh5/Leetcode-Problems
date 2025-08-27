@@ -1,24 +1,24 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        int n;
         stringstream ss(s);
         char c;
         ss>>c;
-        try{
-            n=stoi(s);
-        }
-        catch(std::invalid_argument &e){
+        if((c!='+')&&(c!='-')&&(((int)c<48)||((int)c>57))){
             return 0;
         }
-        catch(std::out_of_range &e){
-            if(c=='-')
-            return INT_MIN;
-            else
-            return INT_MAX;
-            
-        }
+        ss.clear();
+        ss.str(s);
+        ss.seekg(0);
+        long long n;
+        ss>>n;
+        if(n>INT_MAX)
+        return INT_MAX;
+        if(n<INT_MIN)
+        return INT_MIN;
         return n;
+
+
         
     }
 };
