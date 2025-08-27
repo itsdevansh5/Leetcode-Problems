@@ -8,6 +8,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0007-reverse-integer](https://github.com/itsdevansh5/DSA-grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/itsdevansh5/DSA-grind/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
@@ -104,6 +105,7 @@ This contains solutions of leetcode problems I solved..
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/itsdevansh5/DSA-grind/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
