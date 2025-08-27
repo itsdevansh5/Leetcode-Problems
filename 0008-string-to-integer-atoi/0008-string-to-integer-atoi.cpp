@@ -1,22 +1,28 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        stringstream ss(s);
-        char c;
-        ss>>c;
-        if((c!='+')&&(c!='-')&&(((int)c<48)||((int)c>57))){
-            return 0;
+        int n=s.size();
+        int i=0;
+        int sign =1;
+        long long result=0;
+        while(i<n && s[i]==' '){
+            i++;
         }
-        ss.clear();
-        ss.str(s);
-        ss.seekg(0);
-        long long n;
-        ss>>n;
-        if(n>INT_MAX)
-        return INT_MAX;
-        if(n<INT_MIN)
-        return INT_MIN;
-        return n;
+        if(i<n && (s[i]=='+'|| s[i]=='-')){
+            sign =(s[i]=='-')?-1:1;
+            i++;
+
+        }
+        while(i<n && s[i]=='0'){
+            i++;
+        }
+        while(i<n && isdigit(s[i])){
+            result=result*10+(s[i]-'0');
+            if(result*sign>INT_MAX) return INT_MAX;
+            if(result*sign<INT_MIN) return INT_MIN;
+            i++;
+        }
+        return result*sign;
 
 
         
