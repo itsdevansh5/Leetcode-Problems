@@ -86,6 +86,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/itsdevansh5/DSA-grind/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0151-reverse-words-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
@@ -129,6 +130,7 @@ This contains solutions of leetcode problems I solved..
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itsdevansh5/DSA-grind/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
