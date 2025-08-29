@@ -20,6 +20,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/itsdevansh5/DSA-grind/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -86,6 +87,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/itsdevansh5/DSA-grind/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/itsdevansh5/DSA-grind/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0151-reverse-words-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
@@ -175,4 +177,8 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/itsdevansh5/DSA-grind/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
