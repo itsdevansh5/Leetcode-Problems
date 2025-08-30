@@ -1,18 +1,20 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char,int>freq;
+        vector<int>freq;
+        freq.resize(26);
         for(auto i:s){
-            freq[i]++;
+            freq[(int)(i-'a')]++;
         }
         for(auto i:t){
-            freq[i]--;
+            freq[(int)(i-'a')]--;
         }
         for(auto i:freq){
-            if(i.second !=0)
+            if(i!=0)
             return false;
         }
         return true;
+
         
     }
 };
