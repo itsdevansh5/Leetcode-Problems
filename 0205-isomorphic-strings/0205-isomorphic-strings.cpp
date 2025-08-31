@@ -1,26 +1,24 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        if (s.size() != t.size())
-            return false;
+        if (s.size() != t.size()) return false;
 
-        unordered_map<char, char> mapST;
-        unordered_map<char, char> mapTS;
+        // Assuming ASCII characters
+        char mapST[256] = {0};
+        char mapTS[256] = {0};
 
         for (int i = 0; i < s.size(); i++) {
-            char cs = s[i];
-            char ct = t[i];
+            char cs = s[i], ct = t[i];
 
-            // Check if current mapping conflicts with previous mapping
-            if (mapST.count(cs) && mapST[cs] != ct)
-                return false;
-
-            if (mapTS.count(ct) && mapTS[ct] != cs)
-                return false;
-
-            // Create new mappings
-            mapST[cs] = ct;
-            mapTS[ct] = cs;
+            if (mapST[cs] == 0 && mapTS[ct] == 0) {
+                // Create new mappings
+                mapST[cs] = ct;
+                mapTS[ct] = cs;
+            } else {
+                // Check existing mappings
+                if (mapST[cs] != ct || mapTS[ct] != cs)
+                    return false;
+            }
         }
 
         return true;
