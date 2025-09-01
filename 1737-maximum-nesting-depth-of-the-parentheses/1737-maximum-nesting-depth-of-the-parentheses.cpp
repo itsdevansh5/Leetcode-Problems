@@ -1,26 +1,18 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        int max=0;
-        stack<char>st;
-        vector<int>v{0};
+        int n=s.size();
+        int cd=0;
+        int maxd=0;
         for(int i=0;i<s.size();i++){
-            if(s[i]=='('){
-                st.push(s[i]);
-                max++;
-                v.push_back(max);
-            }
-            if(s[i]==')'){
-                st.pop();
-                max--;
-            }
-
-
-
+            if(s[i]=='(')
+            cd++;
+            if(s[i]==')')
+            cd--;
+            if(cd>maxd)
+            maxd=cd;
         }
-      std::sort(v.begin(),v.end());
-      return *(v.end()-1);
-
+        return maxd;
         
     }
 };
