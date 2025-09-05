@@ -1,24 +1,28 @@
 class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) {
-        vector<int>f(k+arr[arr.size()-1]);
-        unordered_map<int,int>freq;
+        int n=arr.size();
         int count=0;
-        for(auto i:arr){
-            freq[i]++;
+        int mis=0;
+        if(arr[0]>1){
+            count=arr[0]-1;
+            mis=arr[0]-1;
+            if(count>=k)
+            return mis -(count-k);
         }
-        int ans=0;
-        for(int i=0;i<f.size();i++){
-            if(freq.find(i+1)==freq.end())
-            count++;
-            if(count==k){
-            ans=i+1;
-            break;
+        for(int i=1;i<n;i++){
+            if(arr[i]-arr[i-1]>1){
+                for(int j=arr[i-1]+1;j<arr[i];j++){
+                    mis=j;
+                    count++;
+                    if(count==k)
+                    return mis;
+                }
             }
-            
-
         }
-
-        return ans;
+        if(count<k)
+        mis=arr[n-1]+(k-count);
+        return mis;
+        
     }
 };
