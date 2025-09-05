@@ -12,4 +12,5 @@ public:
         *node=*(node->next);
         
     }
+
 };
