@@ -151,6 +151,7 @@ This contains solutions of leetcode problems I solved..
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0125-valid-palindrome) |
@@ -224,6 +225,7 @@ This contains solutions of leetcode problems I solved..
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/itsdevansh5/DSA-grind/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0237-delete-node-in-a-linked-list) |
