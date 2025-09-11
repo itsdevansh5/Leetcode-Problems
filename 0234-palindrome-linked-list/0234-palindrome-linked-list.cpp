@@ -10,31 +10,30 @@
  */
 class Solution {
 public:
-   bool isPalindrome(ListNode* head) {
-    if (!head) return true;
-    ListNode* temp = head;
-    int count = 0;
-    while (temp != nullptr) {
-        temp = temp->next;
-        count++;
+    bool isPalindrome(ListNode* head) {
+        if (head == nullptr || head->next == nullptr)
+            return true;
+        if (head->next->next == nullptr)
+            return (head->val == head->next->val);
+        ListNode *a = head, *b = head;
+        while (b != nullptr && b->next != nullptr) {
+            a = a->next;
+            b = b->next->next;
+        }
+        ListNode *curr = a, *prev = nullptr, *nextNode = nullptr;
+        while (curr != nullptr) {
+            nextNode = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = nextNode;
+        }
+        ListNode *temp = head, *temp2 = prev;
+        while (temp2 != nullptr) {
+            if (temp->val != temp2->val)
+                return false;
+            temp = temp->next;
+            temp2 = temp2->next;
+        }
+        return true;
     }
-    temp = head;
-    stack<int> s;
-    // Push first half values
-    for (int i = 0; i < count / 2; i++) {
-        s.push(temp->val);
-        temp = temp->next;
-    }
-    // If odd length, skip middle node
-    if (count % 2 != 0) temp = temp->next;
-    // Compare second half with stack
-    while (temp != nullptr) {
-        if (s.empty() || s.top() != temp->val)
-            return false;
-        s.pop();
-        temp = temp->next;
-    }
-    return s.empty();
-}
-
 };
