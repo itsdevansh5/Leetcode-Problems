@@ -164,6 +164,7 @@ This contains solutions of leetcode problems I solved..
 | [0234-palindrome-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/itsdevansh5/DSA-grind/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Memoization
 |  |
@@ -237,4 +238,5 @@ This contains solutions of leetcode problems I solved..
 | [0234-palindrome-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
