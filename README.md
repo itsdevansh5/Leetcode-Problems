@@ -151,6 +151,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/itsdevansh5/DSA-grind/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/itsdevansh5/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Two Pointers
 |  |
@@ -221,6 +222,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/itsdevansh5/DSA-grind/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/itsdevansh5/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -247,4 +249,5 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/itsdevansh5/DSA-grind/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/itsdevansh5/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
