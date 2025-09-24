@@ -1,23 +1,16 @@
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        deque<int>d;
-        for(auto i:nums){
-            d.push_back(i);
-        }
-        int i=0;
-        while(!d.empty()){
-            if(d.front()!=val){
-                nums[i]=d.front();
-                d.pop_front();
-                i++;
-
+        int write = 0;
+        for (int read = 0; read < nums.size(); read++) {
+            if (nums[read] != val) {
+                nums[write] = nums[read];
+                write++;
             }
-            else
-            d.pop_front();
         }
-        return i;
-        
-        
+        return write;
     }
 };
