@@ -14,6 +14,7 @@ This contains solutions of leetcode problems I solved..
 | [0029-divide-two-integers](https://github.com/itsdevansh5/DSA-grind/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/itsdevansh5/DSA-grind/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/itsdevansh5/DSA-grind/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/itsdevansh5/DSA-grind/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
@@ -119,6 +120,7 @@ This contains solutions of leetcode problems I solved..
 | [0058-length-of-last-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/itsdevansh5/DSA-grind/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/itsdevansh5/DSA-grind/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
