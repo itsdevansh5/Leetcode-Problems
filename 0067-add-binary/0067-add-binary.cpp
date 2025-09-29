@@ -23,7 +23,7 @@ public:
             else{
                 carry=0;
             }
-           output.insert(output.begin(),'0'+sum);
+           output.push_back('0'+sum);
            i--;
            j--;
             
@@ -31,7 +31,8 @@ public:
 
          }
          if(carry)
-         output.insert(output.begin(),'1');
+         output.push_back('1');
+         std::reverse(output.begin(),output.end());
          return output;
         
     }
