@@ -16,6 +16,7 @@ This contains solutions of leetcode problems I solved..
 | [0066-plus-one](https://github.com/itsdevansh5/DSA-grind/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/itsdevansh5/DSA-grind/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/itsdevansh5/DSA-grind/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/itsdevansh5/DSA-grind/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/itsdevansh5/DSA-grind/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
@@ -136,6 +137,7 @@ This contains solutions of leetcode problems I solved..
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/itsdevansh5/DSA-grind/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
@@ -203,6 +205,7 @@ This contains solutions of leetcode problems I solved..
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/itsdevansh5/DSA-grind/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
