@@ -1,16 +1,16 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if(numRows == 1) return s;  // Edge case: single row means no zigzag
+        if(numRows == 1) return s; 
         
         vector<string> arr(numRows, "");
         int j = 0;
-        bool sw = true;  // true means moving down
+        bool sw = true;  
         
         for(char c : s) {
             arr[j] += c;
-            if(j == numRows - 1) sw = false;  // change direction up
-            else if(j == 0) sw = true;        // change direction down
+            if(j == numRows - 1) sw = false;  
+            else if(j == 0) sw = true;       
             
             sw ? j++ : j--;
         }
