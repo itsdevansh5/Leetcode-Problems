@@ -12,6 +12,7 @@ This contains solutions of leetcode problems I solved..
 | [0012-integer-to-roman](https://github.com/itsdevansh5/DSA-grind/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/itsdevansh5/DSA-grind/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/itsdevansh5/DSA-grind/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/itsdevansh5/DSA-grind/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/itsdevansh5/DSA-grind/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/itsdevansh5/DSA-grind/tree/master/0067-add-binary) |
@@ -122,6 +123,7 @@ This contains solutions of leetcode problems I solved..
 | [0014-longest-common-prefix](https://github.com/itsdevansh5/DSA-grind/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/itsdevansh5/DSA-grind/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0125-valid-palindrome) |
@@ -174,6 +176,7 @@ This contains solutions of leetcode problems I solved..
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/itsdevansh5/DSA-grind/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
