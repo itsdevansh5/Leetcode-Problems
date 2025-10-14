@@ -22,6 +22,7 @@ This contains solutions of leetcode problems I solved..
 | [0171-excel-sheet-column-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
+| [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/2050-count-good-numbers) |
@@ -138,6 +139,7 @@ This contains solutions of leetcode problems I solved..
 | [0344-reverse-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
+| [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
 | [0812-rotate-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
