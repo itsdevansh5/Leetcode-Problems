@@ -140,6 +140,7 @@ This contains solutions of leetcode problems I solved..
 | [0387-first-unique-character-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/itsdevansh5/DSA-grind/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
