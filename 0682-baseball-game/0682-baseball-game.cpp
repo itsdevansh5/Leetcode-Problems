@@ -1,23 +1,29 @@
 class Solution {
 public:
     int calPoints(vector<string>& operations) {
-         vector<int> record;
+         stack<int>st;
     for (const string& op : operations) {
         if (op == "+") {
-            int sum = record[record.size() - 1] + record[record.size() - 2];
-            record.push_back(sum);
+            int a = st.top();
+            st.pop();
+            int b=st.top();
+            st.pop();
+            st.push(b);
+            st.push(a);
+            st.push(a+b);
         } else if (op == "D") {
-            int doubleLast = 2 * record.back();
-            record.push_back(doubleLast);
+            int doubleLast = 2 * st.top();
+            st.push(doubleLast);
         } else if (op == "C") {
-            record.pop_back();
+            st.pop();
         } else {
-            record.push_back(stoi(op));
+            st.push(stoi(op));
         }
     }
     int total = 0;
-    for (int score : record) {
-        total += score;
+    while(!st.empty()) {
+        total +=(st.top());
+        st.pop();
     }
     return total;
     }
