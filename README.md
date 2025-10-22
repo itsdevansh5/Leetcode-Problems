@@ -21,6 +21,7 @@ This contains solutions of leetcode problems I solved..
 | [0168-excel-sheet-column-title](https://github.com/itsdevansh5/DSA-grind/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
@@ -194,6 +195,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0043-multiply-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/itsdevansh5/DSA-grind/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/itsdevansh5/DSA-grind/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/itsdevansh5/DSA-grind/tree/master/0874-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -341,4 +343,8 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/itsdevansh5/DSA-grind/tree/master/0937-online-stock-span) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
