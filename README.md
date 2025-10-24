@@ -83,6 +83,7 @@ This contains solutions of leetcode problems I solved..
 | [0128-longest-consecutive-sequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/itsdevansh5/DSA-grind/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/itsdevansh5/DSA-grind/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itsdevansh5/DSA-grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/0205-isomorphic-strings) |
@@ -203,6 +204,7 @@ This contains solutions of leetcode problems I solved..
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/itsdevansh5/DSA-grind/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/itsdevansh5/DSA-grind/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/itsdevansh5/DSA-grind/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/itsdevansh5/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
@@ -320,6 +322,7 @@ This contains solutions of leetcode problems I solved..
 | [0083-remove-duplicates-from-sorted-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/itsdevansh5/DSA-grind/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/itsdevansh5/DSA-grind/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itsdevansh5/DSA-grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0234-palindrome-linked-list) |
@@ -347,4 +350,8 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0258-add-digits) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/itsdevansh5/DSA-grind/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
