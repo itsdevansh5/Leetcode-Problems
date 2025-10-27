@@ -21,6 +21,7 @@ This contains solutions of leetcode problems I solved..
 | [0168-excel-sheet-column-title](https://github.com/itsdevansh5/DSA-grind/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
@@ -86,6 +87,7 @@ This contains solutions of leetcode problems I solved..
 | [0146-lru-cache](https://github.com/itsdevansh5/DSA-grind/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itsdevansh5/DSA-grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/itsdevansh5/DSA-grind/tree/master/0242-valid-anagram) |
@@ -226,6 +228,7 @@ This contains solutions of leetcode problems I solved..
 | [0151-reverse-words-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itsdevansh5/DSA-grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/itsdevansh5/DSA-grind/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0344-reverse-string) |
