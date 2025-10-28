@@ -47,6 +47,7 @@ This contains solutions of leetcode problems I solved..
 | [0075-sort-colors](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0136-single-number) |
@@ -164,6 +165,7 @@ This contains solutions of leetcode problems I solved..
 | [0005-longest-palindromic-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/itsdevansh5/DSA-grind/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
