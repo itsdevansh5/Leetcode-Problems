@@ -95,6 +95,7 @@ This contains solutions of leetcode problems I solved..
 | [0242-valid-anagram](https://github.com/itsdevansh5/DSA-grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/itsdevansh5/DSA-grind/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
@@ -125,6 +126,7 @@ This contains solutions of leetcode problems I solved..
 | [0169-majority-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/itsdevansh5/DSA-grind/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
@@ -153,6 +155,7 @@ This contains solutions of leetcode problems I solved..
 | [0242-valid-anagram](https://github.com/itsdevansh5/DSA-grind/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/itsdevansh5/DSA-grind/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
