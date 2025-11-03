@@ -1,9 +1,3 @@
-#include <vector>
-#include <string>
-#include <unordered_map>
-#include <algorithm>
-#include <utility>
-
 class Solution {
 public:
     std::vector<std::string> topKFrequent(std::vector<std::string>& words, int k) {
