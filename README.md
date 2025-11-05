@@ -25,6 +25,7 @@ This contains solutions of leetcode problems I solved..
 | [0258-add-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/2050-count-good-numbers) |
@@ -70,6 +71,7 @@ This contains solutions of leetcode problems I solved..
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0837-most-common-word) |
 | [0907-koko-eating-bananas](https://github.com/itsdevansh5/DSA-grind/tree/master/0907-koko-eating-bananas) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1646-kth-missing-positive-number) |
@@ -105,6 +107,7 @@ This contains solutions of leetcode problems I solved..
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/itsdevansh5/DSA-grind/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Sliding Window
@@ -138,6 +141,7 @@ This contains solutions of leetcode problems I solved..
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/itsdevansh5/DSA-grind/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
@@ -383,6 +387,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0258-add-digits) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## Doubly-Linked List
 |  |
 | ------- |
