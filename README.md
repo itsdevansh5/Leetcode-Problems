@@ -24,6 +24,7 @@ This contains solutions of leetcode problems I solved..
 | [0202-happy-number](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/itsdevansh5/DSA-grind/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
@@ -179,6 +180,7 @@ This contains solutions of leetcode problems I solved..
 | [0344-reverse-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/itsdevansh5/DSA-grind/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0387-first-unique-character-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/itsdevansh5/DSA-grind/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/itsdevansh5/DSA-grind/tree/master/0520-detect-capital) |
@@ -219,6 +221,7 @@ This contains solutions of leetcode problems I solved..
 | [0067-add-binary](https://github.com/itsdevansh5/DSA-grind/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/itsdevansh5/DSA-grind/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2427-first-letter-to-appear-twice](https://github.com/itsdevansh5/DSA-grind/tree/master/2427-first-letter-to-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
