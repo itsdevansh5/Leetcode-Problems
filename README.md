@@ -58,6 +58,7 @@ This contains solutions of leetcode problems I solved..
 | [0169-majority-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/itsdevansh5/DSA-grind/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
@@ -102,6 +103,7 @@ This contains solutions of leetcode problems I solved..
 | [0202-happy-number](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/itsdevansh5/DSA-grind/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/itsdevansh5/DSA-grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
@@ -125,6 +127,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsdevansh5/DSA-grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
