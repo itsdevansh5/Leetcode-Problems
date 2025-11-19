@@ -64,6 +64,7 @@ This contains solutions of leetcode problems I solved..
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/itsdevansh5/DSA-grind/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/itsdevansh5/DSA-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/itsdevansh5/DSA-grind/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0503-next-greater-element-ii) |
@@ -109,6 +110,7 @@ This contains solutions of leetcode problems I solved..
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/itsdevansh5/DSA-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/itsdevansh5/DSA-grind/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
@@ -141,6 +143,7 @@ This contains solutions of leetcode problems I solved..
 | [0242-valid-anagram](https://github.com/itsdevansh5/DSA-grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/itsdevansh5/DSA-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
@@ -287,6 +290,7 @@ This contains solutions of leetcode problems I solved..
 | [0234-palindrome-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/itsdevansh5/DSA-grind/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/itsdevansh5/DSA-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0874-backspace-string-compare](https://github.com/itsdevansh5/DSA-grind/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0953-reverse-only-letters) |
@@ -311,6 +315,7 @@ This contains solutions of leetcode problems I solved..
 | [0162-find-peak-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/itsdevansh5/DSA-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/itsdevansh5/DSA-grind/tree/master/0907-koko-eating-bananas) |
