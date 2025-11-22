@@ -1,17 +1,22 @@
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
-        int n=nums.size();
-        unordered_map<int,int>m;
-        for(auto i:nums){
-            m[i]++;
+        int n = nums.size();
+
+        // Mark visited numbers by negating values at their index
+        for(int i = 0; i < n; i++){
+            int idx = abs(nums[i]) - 1;
+            if(nums[idx] > 0)
+                nums[idx] = -nums[idx];
         }
-        vector<int>ans;
-        for(int i=1;i<=n;i++){
-            if(m.find(i)==m.end())
-            ans.push_back(i);
+
+        // Collect indices that remain positive => missing numbers
+        vector<int> ans;
+        for(int i = 0; i < n; i++){
+            if(nums[i] > 0)
+                ans.push_back(i + 1);
         }
+
         return ans;
-        
     }
 };
