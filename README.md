@@ -122,6 +122,7 @@ This contains solutions of leetcode problems I solved..
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0837-most-common-word) |
+| [0859-buddy-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/0859-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/itsdevansh5/DSA-grind/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1297-maximum-number-of-balloons](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-balloons) |
@@ -203,6 +204,7 @@ This contains solutions of leetcode problems I solved..
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
 | [0812-rotate-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0837-most-common-word) |
+| [0859-buddy-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/0859-buddy-strings) |
 | [0874-backspace-string-compare](https://github.com/itsdevansh5/DSA-grind/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/itsdevansh5/DSA-grind/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0953-reverse-only-letters) |
