@@ -71,6 +71,7 @@ This contains solutions of leetcode problems I solved..
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0540-single-element-in-a-sorted-array) |
+| [0575-distribute-candies](https://github.com/itsdevansh5/DSA-grind/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/itsdevansh5/DSA-grind/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
@@ -120,6 +121,7 @@ This contains solutions of leetcode problems I solved..
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/itsdevansh5/DSA-grind/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0837-most-common-word) |
