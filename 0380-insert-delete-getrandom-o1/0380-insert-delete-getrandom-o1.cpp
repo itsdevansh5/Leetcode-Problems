@@ -29,8 +29,9 @@ unordered_map<int,int>m;
             int ind=m[val];
             int last=n[n.size()-1];
             n[ind]=last;
-            n.pop_back();
             m[last]=ind;
+            n.pop_back();
+            
             m.erase(val);
             return true;
         }
