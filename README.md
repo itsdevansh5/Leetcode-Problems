@@ -24,6 +24,7 @@ This contains solutions of leetcode problems I solved..
 | [0202-happy-number](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/itsdevansh5/DSA-grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/itsdevansh5/DSA-grind/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -66,6 +67,7 @@ This contains solutions of leetcode problems I solved..
 | [0347-top-k-frequent-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/itsdevansh5/DSA-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/itsdevansh5/DSA-grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/itsdevansh5/DSA-grind/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
@@ -117,6 +119,7 @@ This contains solutions of leetcode problems I solved..
 | [0347-top-k-frequent-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/itsdevansh5/DSA-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/itsdevansh5/DSA-grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/itsdevansh5/DSA-grind/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -282,6 +285,7 @@ This contains solutions of leetcode problems I solved..
 | [0155-min-stack](https://github.com/itsdevansh5/DSA-grind/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/itsdevansh5/DSA-grind/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/itsdevansh5/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/itsdevansh5/DSA-grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/itsdevansh5/DSA-grind/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Two Pointers
@@ -457,4 +461,8 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3790-fruits-into-baskets-ii) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/itsdevansh5/DSA-grind/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
