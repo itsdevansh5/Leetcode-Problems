@@ -7,9 +7,10 @@ public:
         int i = 0;
 
         while(i < s.size()){
-            if (s[i] == ' ') { i++; continue; }
-
-            // number
+            if(s[i] == ' '){
+                i++;
+                continue;
+            }
             if(isdigit(s[i])){
                 string num;
                 while(i < s.size() && isdigit(s[i])){
@@ -19,8 +20,6 @@ public:
                 output.push_back(num);
                 continue;
             }
-
-            // operator
             char op = s[i];
             while(!st.empty() && m[st.top()] >= m[op]){
                 output.push_back(string(1, st.top()));
@@ -42,22 +41,18 @@ public:
         vector<string> v = pf(s);
         stack<int> st;
 
-        for(string token : v){
-            // operator
+        for(auto &token : v){
             if(token == "+" || token == "-" || token == "*" || token == "/"){
                 int b = st.top(); st.pop();
                 int a = st.top(); st.pop();
-                int res = 0;
-
-                if(token == "+") res = a + b;
-                if(token == "-") res = a - b;
-                if(token == "*") res = a * b;
-                if(token == "/") res = a / b;
-
-                st.push(res);
+                int r = 0;
+                if(token == "+") r = a + b;
+                else if(token == "-") r = a - b;
+                else if(token == "*") r = a * b;
+                else r = a / b;
+                st.push(r);
             }
-            else {
-                // number
+            else{
                 st.push(stoi(token));
             }
         }
