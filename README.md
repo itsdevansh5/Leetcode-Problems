@@ -30,6 +30,7 @@ This contains solutions of leetcode problems I solved..
 | [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/itsdevansh5/DSA-grind/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/2050-count-good-numbers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/itsdevansh5/DSA-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
