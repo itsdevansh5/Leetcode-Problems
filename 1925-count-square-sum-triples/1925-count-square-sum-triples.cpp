@@ -1,19 +1,18 @@
 class Solution {
 public:
     int countTriples(int n) {
-    unordered_map<int,int>s;
-    for(int i=1;i<=n;i++){
-        s[i*i]=i;
-    }
-    int count=0;
-    for(int j=1;j<=n;j++){
-        for(int k=1;k<=n;k++){
-            int pr=j*j + k*k;
-            if(s.find(pr)!=s.end())
-            count++;
+        int count = 0;
+
+        for (int a = 1; a <= n; a++) {
+            for (int b = 1; b <= n; b++) {
+                int c2 = a*a + b*b;
+                int c = sqrt(c2);
+                if (c <= n && c*c == c2) {
+                    count++;
+                }
+            }
         }
-    }
-    return count;
-        
+
+        return count;
     }
 };
