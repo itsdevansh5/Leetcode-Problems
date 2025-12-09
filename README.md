@@ -97,6 +97,7 @@ This contains solutions of leetcode problems I solved..
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/itsdevansh5/DSA-grind/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3429-special-array-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/itsdevansh5/DSA-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3583-count-special-triplets](https://github.com/itsdevansh5/DSA-grind/tree/master/3583-count-special-triplets) |
 | [3731-find-missing-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/3731-find-missing-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3790-fruits-into-baskets-ii) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/itsdevansh5/DSA-grind/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -144,6 +145,7 @@ This contains solutions of leetcode problems I solved..
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/itsdevansh5/DSA-grind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2427-first-letter-to-appear-twice](https://github.com/itsdevansh5/DSA-grind/tree/master/2427-first-letter-to-appear-twice) |
+| [3583-count-special-triplets](https://github.com/itsdevansh5/DSA-grind/tree/master/3583-count-special-triplets) |
 | [3731-find-missing-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/3731-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/itsdevansh5/DSA-grind/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Sliding Window
@@ -187,6 +189,7 @@ This contains solutions of leetcode problems I solved..
 | [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/itsdevansh5/DSA-grind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2427-first-letter-to-appear-twice](https://github.com/itsdevansh5/DSA-grind/tree/master/2427-first-letter-to-appear-twice) |
+| [3583-count-special-triplets](https://github.com/itsdevansh5/DSA-grind/tree/master/3583-count-special-triplets) |
 ## String
 |  |
 | ------- |
