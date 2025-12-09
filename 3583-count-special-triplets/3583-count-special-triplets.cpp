@@ -13,14 +13,14 @@ public:
         for (int x : nums) {
             right[x]--;
 
-            long long a = left[2 * x]; 
-            long long b = right[2 * x]; 
+            long long a = left[2 * x]%mod;
+            long long b = right[2 * x]%mod;
 
             count = (count + (a * b) % mod) % mod;
 
             left[x]++;
         }
 
-        return count;
+        return (int)count;
     }
 };
