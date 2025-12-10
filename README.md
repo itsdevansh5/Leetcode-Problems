@@ -49,6 +49,7 @@ This contains solutions of leetcode problems I solved..
 | [0033-search-in-rotated-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/itsdevansh5/DSA-grind/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/itsdevansh5/DSA-grind/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/itsdevansh5/DSA-grind/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/itsdevansh5/DSA-grind/tree/master/0074-search-a-2d-matrix) |
@@ -108,6 +109,7 @@ This contains solutions of leetcode problems I solved..
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsdevansh5/DSA-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/itsdevansh5/DSA-grind/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/itsdevansh5/DSA-grind/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/itsdevansh5/DSA-grind/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/itsdevansh5/DSA-grind/tree/master/0141-linked-list-cycle) |
@@ -158,6 +160,7 @@ This contains solutions of leetcode problems I solved..
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/itsdevansh5/DSA-grind/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itsdevansh5/DSA-grind/tree/master/0217-contains-duplicate) |
@@ -204,6 +207,7 @@ This contains solutions of leetcode problems I solved..
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/itsdevansh5/DSA-grind/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/itsdevansh5/DSA-grind/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/itsdevansh5/DSA-grind/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0125-valid-palindrome) |
