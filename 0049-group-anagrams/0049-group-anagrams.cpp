@@ -4,13 +4,10 @@ public:
         unordered_map<string, vector<string>> mp;
 
         for (auto &s : strs) {
-            // Build frequency key
             vector<int> freq(26, 0);
             for (char c : s) {
                 freq[c - 'a']++;
             }
-
-            // Convert vector<int> → string key
             string key;
             for (int x : freq) {
                 key += to_string(x) + '#';
