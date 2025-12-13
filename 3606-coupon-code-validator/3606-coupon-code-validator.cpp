@@ -1,39 +1,45 @@
-#include<cctype>
 class Solution {
 public:
-     bool valid(string code, string businessLine, bool isActive){
-          for(auto i:code){
-            if(!isalnum(i) && i!='_')
+    bool valid(const string& code, const string& businessLine, bool isActive,
+               unordered_map<string,int>& mp) {
+        if(code.size()==0) return false;
+        if(!isActive) return false;
+
+        if(mp.find(businessLine) == mp.end())
             return false;
-          }
-          if(businessLine!="electronics" && businessLine!="grocery" && businessLine!="restaurant" &&businessLine!="pharmacy")
-          return false;
 
-          if(!isActive)
-          return false;
+        for(char c : code){
+            if(!isalnum(c) && c != '_')
+                return false;
+        }
+        return true;
+    }
 
-          return true;
-     }
-    vector<string> validateCoupons(vector<string>& code, vector<string>& businessLine, vector<bool>& isActive) {
-        vector<vector<string>>v(4);
-        unordered_map<string,int>mp={{"electronics",0},{"grocery",1},{"pharmacy",2},{"restaurant",3}};
-        for(int i=0;i<code.size();i++){
-            if(valid(code[i],businessLine[i],isActive[i])){
+    vector<string> validateCoupons(vector<string>& code,
+                                   vector<string>& businessLine,
+                                   vector<bool>& isActive) {
+
+        unordered_map<string,int> mp = {
+            {"electronics",0},
+            {"grocery",1},
+            {"pharmacy",2},
+            {"restaurant",3}
+        };
+
+        vector<vector<string>> v(4);
+
+        for(int i = 0; i < code.size(); i++){
+            if(valid(code[i], businessLine[i], isActive[i], mp)){
                 v[mp[businessLine[i]]].push_back(code[i]);
-
             }
         }
-       if(v[0].size()!=0) std::sort(v[0].begin(),v[0].end());
-       if(v[1].size()!=0) std::sort(v[1].begin(),v[1].end());
-     if(v[2].size()!=0) std::sort(v[2].begin(),v[2].end());
-     if(v[3].size()!=0) std::sort(v[3].begin(),v[3].end());
-     vector<string>res;
-     for(int i=0;i<v.size();i++){
-        for(int j=0;j<v[i].size();j++){
-            if(v[i][j].size()!=0)
-            res.push_back(v[i][j]);
+
+        vector<string> res;
+        for(auto& group : v){
+            sort(group.begin(), group.end());
+            for(auto& s : group)
+                res.push_back(s);
         }
-     }
-     return res;
+        return res;
     }
 };
