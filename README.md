@@ -232,6 +232,7 @@ This contains solutions of leetcode problems I solved..
 | [0345-reverse-vowels-of-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/itsdevansh5/DSA-grind/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/itsdevansh5/DSA-grind/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0459-repeated-substring-pattern) |
@@ -290,6 +291,7 @@ This contains solutions of leetcode problems I solved..
 | [0203-remove-linked-list-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -415,6 +417,7 @@ This contains solutions of leetcode problems I solved..
 | [0232-implement-queue-using-stacks](https://github.com/itsdevansh5/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/itsdevansh5/DSA-grind/tree/master/0682-baseball-game) |
