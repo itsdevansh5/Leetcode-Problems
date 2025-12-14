@@ -1,32 +1,26 @@
 class Solution {
 public:
     vector<string> subdomainVisits(vector<string>& cpdomains) {
-        unordered_map<string,int>mp;
-         for(int i=0;i<cpdomains.size();i++){
-              string fulld=cpdomains[i];
-              int num=0;
-              int k=0;
-              while(k<fulld.size() && isdigit(fulld[k])){
-                num=num*10+(fulld[k]-'0');
-                k++;
-              }
-            int j=k+1;
-            while(j<fulld.size()){
-                 string subd=fulld.substr(j);
-                 mp[subd]+=num;
-                 while(j<fulld.size() && fulld[j]!='.'){
-                    j++;
-                 }
-                 j++;
+        unordered_map<string, int> mp;
+
+        for (string &entry : cpdomains) {
+            int spacePos = entry.find(' ');
+            int count = stoi(entry.substr(0, spacePos));
+            string domain = entry.substr(spacePos + 1);
+
+            mp[domain] += count;
+
+            for (int i = 0; i < domain.size(); i++) {
+                if (domain[i] == '.') {
+                    mp[domain.substr(i + 1)] += count;
+                }
             }
-              
-         }
-         vector<string>res;
-         for(auto &i:mp){
-            int num=i.second;
-            string fin=to_string(num)+" "+i.first;
-            res.push_back(fin);
-         }
-         return res;
+        }
+
+        vector<string> res;
+        for (auto &p : mp) {
+            res.push_back(to_string(p.second) + " " + p.first);
+        }
+        return res;
     }
 };
