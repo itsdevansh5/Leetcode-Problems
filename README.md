@@ -35,6 +35,7 @@ This contains solutions of leetcode problems I solved..
 | [1925-count-square-sum-triples](https://github.com/itsdevansh5/DSA-grind/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/itsdevansh5/DSA-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -97,6 +98,7 @@ This contains solutions of leetcode problems I solved..
 | [1646-kth-missing-positive-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/itsdevansh5/DSA-grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/itsdevansh5/DSA-grind/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3429-special-array-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3429-special-array-i) |
@@ -268,6 +270,7 @@ This contains solutions of leetcode problems I solved..
 | [0119-pascals-triangle-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
