@@ -29,6 +29,7 @@ This contains solutions of leetcode problems I solved..
 | [0398-random-pick-index](https://github.com/itsdevansh5/DSA-grind/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/itsdevansh5/DSA-grind/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
+| [0537-complex-number-multiplication](https://github.com/itsdevansh5/DSA-grind/tree/master/0537-complex-number-multiplication) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/itsdevansh5/DSA-grind/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -243,6 +244,7 @@ This contains solutions of leetcode problems I solved..
 | [0459-repeated-substring-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/itsdevansh5/DSA-grind/tree/master/0520-detect-capital) |
+| [0537-complex-number-multiplication](https://github.com/itsdevansh5/DSA-grind/tree/master/0537-complex-number-multiplication) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
 | [0811-subdomain-visit-count](https://github.com/itsdevansh5/DSA-grind/tree/master/0811-subdomain-visit-count) |
 | [0812-rotate-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0812-rotate-string) |
@@ -309,6 +311,7 @@ This contains solutions of leetcode problems I solved..
 | [0043-multiply-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/itsdevansh5/DSA-grind/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0258-add-digits) |
+| [0537-complex-number-multiplication](https://github.com/itsdevansh5/DSA-grind/tree/master/0537-complex-number-multiplication) |
 | [0682-baseball-game](https://github.com/itsdevansh5/DSA-grind/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/itsdevansh5/DSA-grind/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/itsdevansh5/DSA-grind/tree/master/0874-backspace-string-compare) |
