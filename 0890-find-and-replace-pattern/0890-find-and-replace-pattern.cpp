@@ -9,18 +9,12 @@ public:
         for(int i=0;i<a.size();i++){
             char m=a[i];
             char n=b[i];
-            if(ab.count(m)>0 && ba.count(n)>0 && ab[m]==n && ba[n]==m) continue;
-            else{
-                if(ab.count(m)==0 && ba.count(n)==0){
-                    ab[m]=n;
-                    ba[n]=m;
-                }
-                else
-                return false;
-            } 
-            
-
-            
+            if(ab.count(m) && ab[m]!=n)
+            return false;
+            if(!ab.count(m) && ba.count(n) && ba[n]!=m)
+            return false;
+            ab[m]=n;
+            ba[n]=m;
         }
         return true;
     }
