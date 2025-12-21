@@ -20,6 +20,7 @@ This contains solutions of leetcode problems I solved..
 | [0070-climbing-stairs](https://github.com/itsdevansh5/DSA-grind/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/itsdevansh5/DSA-grind/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/itsdevansh5/DSA-grind/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0227-basic-calculator-ii) |
