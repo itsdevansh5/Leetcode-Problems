@@ -236,6 +236,7 @@ This contains solutions of leetcode problems I solved..
 | [0168-excel-sheet-column-title](https://github.com/itsdevansh5/DSA-grind/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/0205-isomorphic-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/itsdevansh5/DSA-grind/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/itsdevansh5/DSA-grind/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0290-word-pattern) |
@@ -333,6 +334,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0146-lru-cache](https://github.com/itsdevansh5/DSA-grind/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/itsdevansh5/DSA-grind/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/itsdevansh5/DSA-grind/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/itsdevansh5/DSA-grind/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/itsdevansh5/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/itsdevansh5/DSA-grind/tree/master/0380-insert-delete-getrandom-o1) |
@@ -421,6 +423,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/itsdevansh5/DSA-grind/tree/master/0014-longest-common-prefix) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/itsdevansh5/DSA-grind/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
 ## String Matching
@@ -534,4 +537,8 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/itsdevansh5/DSA-grind/tree/master/0398-random-pick-index) |
+## Depth-First Search
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/itsdevansh5/DSA-grind/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
