@@ -1,35 +1,32 @@
 class Solution {
 public:
-    int maximumSum(vector<int>& nums) {
-        vector<int>arr0;
-        vector<int>arr1;
-        vector<int>arr2;
-        for(auto i:nums){
-            if(i%3==0) arr0.push_back(i);
-            else if(i%3==1) arr1.push_back(i);
-            else arr2.push_back(i);
+    void insertTop3(vector<int>& v, int x) {
+        v.push_back(x);
+        int i = v.size() - 1;
+        while (i > 0 && v[i] > v[i - 1]) {
+            swap(v[i], v[i - 1]);
+            i--;
         }
-        int maxsum=0;
-        std::sort(arr0.begin(),arr0.end(),[](int a,int b){return a>b;});
-        std::sort(arr1.begin(),arr1.end(),[](int a,int b){return a>b;});
-       std::sort(arr2.begin(),arr2.end(),[](int a,int b){return a>b;});
-       if(arr0.size()>=3){
-        if(maxsum<(arr0[0]+arr0[1]+arr0[2]))
-        maxsum=arr0[0]+arr0[1]+arr0[2];
-       }
-        if(arr1.size()>=3){
-        if(maxsum<(arr1[0]+arr1[1]+arr1[2]))
-        maxsum=arr1[0]+arr1[1]+arr1[2];
-       }
-        if(arr2.size()>=3){
-        if(maxsum<(arr2[0]+arr2[1]+arr2[2]))
-        maxsum=arr2[0]+arr2[1]+arr2[2];
-       }
-       if(arr0.size()!=0 && arr1.size()!=0 && arr2.size()!=0){
-        if(maxsum<(arr0[0]+arr1[0]+arr2[0]))
-        maxsum=arr0[0]+arr1[0]+arr2[0];
-       }
-       return maxsum;
-       
+        if (v.size() > 3) v.pop_back();
+    }
+
+    int maximumSum(vector<int>& nums) {
+        vector<int> a0, a1, a2;
+
+        for (int x : nums) {
+            if (x % 3 == 0) insertTop3(a0, x);
+            else if (x % 3 == 1) insertTop3(a1, x);
+            else insertTop3(a2, x);
+        }
+
+        int ans = 0;
+
+        if (a0.size() >= 3) ans = max(ans, a0[0] + a0[1] + a0[2]);
+        if (a1.size() >= 3) ans = max(ans, a1[0] + a1[1] + a1[2]);
+        if (a2.size() >= 3) ans = max(ans, a2[0] + a2[1] + a2[2]);
+        if (!a0.empty() && !a1.empty() && !a2.empty())
+            ans = max(ans, a0[0] + a1[0] + a2[0]);
+
+        return ans;
     }
 };
