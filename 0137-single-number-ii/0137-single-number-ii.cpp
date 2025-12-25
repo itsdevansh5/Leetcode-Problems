@@ -11,11 +11,6 @@ public:
             bsum+=(long long)i;
         }
         long long diff=asum-bsum;
-        for(auto i:s){
-           if(((double)diff)/(3*i) ==(2/3.0))
-           return i;
-        }
-        return 0;
-        
+        return (int)(diff/2);
     }
 };
