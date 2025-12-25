@@ -1,7 +1,7 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        set<long long>s(nums.begin(),nums.end());
+        unordered_set<long long>s(nums.begin(),nums.end());
         long long asum=0;
         for(auto i:s){
            asum+=((long long)i*3);
