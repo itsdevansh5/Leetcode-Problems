@@ -272,6 +272,7 @@ This contains solutions of leetcode problems I solved..
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/itsdevansh5/DSA-grind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/itsdevansh5/DSA-grind/tree/master/2427-first-letter-to-appear-twice) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/itsdevansh5/DSA-grind/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3606-coupon-code-validator](https://github.com/itsdevansh5/DSA-grind/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
@@ -290,6 +291,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/itsdevansh5/DSA-grind/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/itsdevansh5/DSA-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
 ## Bit Manipulation
