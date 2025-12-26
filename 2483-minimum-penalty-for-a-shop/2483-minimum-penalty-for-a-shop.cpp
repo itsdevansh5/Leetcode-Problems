@@ -1,25 +1,20 @@
 class Solution {
 public:
     int bestClosingTime(string customers) {
-        int fine0=0;
-        for(auto i:customers){
-            if(i=='Y')
-            fine0+=1;
+       int fine = 0;
+    for (char c : customers) fine += (c == 'Y');
+
+    int minfine = fine, idx = 0;
+
+    for (int i = 0; i < customers.size(); ++i) {
+        fine += (customers[i] == 'N');
+        fine -= (customers[i] == 'Y');
+        if (fine < minfine) {
+            minfine = fine;
+            idx = i + 1;
         }
-        int minfine=fine0;
-        int idx=0;
-        int fine=fine0;
-        for(int i=1;i<=customers.size();i++){
-            if(customers[i-1]=='Y')
-            fine--;
-            else
-            fine++;
-            if(minfine>fine){
-                minfine=fine;
-                idx=i;
-            }
-        }
-        return idx;
+    }
+    return idx;
         
     }
 };
