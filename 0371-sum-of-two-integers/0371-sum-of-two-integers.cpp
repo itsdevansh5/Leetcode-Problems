@@ -10,3 +10,4 @@ public:
         return a;
     }
 };
+//do by bit manipulation
