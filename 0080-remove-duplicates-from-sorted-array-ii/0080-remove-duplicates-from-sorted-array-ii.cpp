@@ -6,7 +6,7 @@ public:
         while(j<nums.size()){
              int count=0;
              int a=nums[j];
-             while(i<nums.size() && j<nums.size() && nums[j]==a){
+             while(j<nums.size() && nums[j]==a){
                 count++;
                 if(count<=2){
                 nums[i]=nums[j];
