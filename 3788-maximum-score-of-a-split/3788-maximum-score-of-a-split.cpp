@@ -3,7 +3,7 @@ public:
     long long maximumScore(vector<int>& nums) {
         long long presum=0;
         long long maxscore=LLONG_MIN;
-        unordered_map<int,long long>mp;
+        vector<long long>mp(nums.size());
         long long sufsum=LLONG_MAX;
         for(int i=nums.size()-1;i>=0;i--){
             if(nums[i]<sufsum)
