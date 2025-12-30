@@ -3,6 +3,7 @@ public:
     string reverseWords(string s) {
         unordered_set<char>v={'a', 'e', 'i', 'o','u','A','E','O','U','I'};
         int j=0;
+        while(j<s.size() && s[j]==' ') j++;
         int n=0;
         while(j<s.size() && s[j]!=' '){
             if(v.find(s[j])!=v.end())
