@@ -1,7 +1,7 @@
 class Solution {
 public:
     string reverseWords(string s) {
-      vector<bool>isVowel(256,false);
+      bool isVowel[256]={false};
       isVowel['a'] = true;
 isVowel['e'] = true;
 isVowel['i'] = true;
