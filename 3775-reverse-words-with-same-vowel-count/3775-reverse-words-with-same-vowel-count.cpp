@@ -1,12 +1,23 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        unordered_set<char>v={'a', 'e', 'i', 'o','u','A','E','O','U','I'};
+      vector<bool>isVowel(256,false);
+      isVowel['a'] = true;
+isVowel['e'] = true;
+isVowel['i'] = true;
+isVowel['o'] = true;
+isVowel['u'] = true;
+
+isVowel['A'] = true;
+isVowel['E'] = true;
+isVowel['I'] = true;
+isVowel['O'] = true;
+isVowel['U'] = true;
         int j=0;
         while(j<s.size() && s[j]==' ') j++;
         int n=0;
         while(j<s.size() && s[j]!=' '){
-            if(v.find(s[j])!=v.end())
+            if(isVowel[s[j]])
             n++;
             j++;
             
@@ -18,7 +29,7 @@ public:
              int i=j;
              int count=0;
              while(j<s.size() && s[j]!=' '){
-                if(v.find(s[j])!=v.end())
+                if(isVowel[s[j]])
                 count++;
                 j++;
              }
