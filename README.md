@@ -281,6 +281,7 @@ This contains solutions of leetcode problems I solved..
 | [3606-coupon-code-validator](https://github.com/itsdevansh5/DSA-grind/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/itsdevansh5/DSA-grind/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -339,6 +340,7 @@ This contains solutions of leetcode problems I solved..
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/itsdevansh5/DSA-grind/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3790-fruits-into-baskets-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
@@ -382,6 +384,7 @@ This contains solutions of leetcode problems I solved..
 | [0953-reverse-only-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0953-reverse-only-letters) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/itsdevansh5/DSA-grind/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Memoization
 |  |
 | ------- |
