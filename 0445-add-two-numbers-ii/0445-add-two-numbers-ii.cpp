@@ -53,14 +53,14 @@ public:
         res=add(v2,v1);
 
         std::reverse(res.begin(),res.end());
-        ListNode * dummy=new ListNode();
-        ListNode *temp=dummy;
+        ListNode dummy;
+        ListNode *temp=&dummy;
         for(auto i:res){
-            ListNode * n=new ListNode(i);
+            ListNode * n= new ListNode(i);
             temp->next=n;
             temp=n;
         }
-        return dummy->next;
+        return dummy.next;
         
         
     
