@@ -47,10 +47,7 @@ public:
             t2=t2->next;
         }
         vector<int>res;
-        if(v1.size()>v2.size())
         res=add(v1,v2);
-        else
-        res=add(v2,v1);
 
         std::reverse(res.begin(),res.end());
         ListNode dummy;
