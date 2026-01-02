@@ -15,11 +15,13 @@ public:
         int i=a.size()-1;
         int j=b.size()-1;
         int carry=0;
-        while(i>=0){
-            int p=a[i];
+        while(i>=0 || j>=0 || carry){
+            int p;
             int q;
             if(j<0)  q=0;
-            else  q=b[j];
+            else q=b[j];
+            if(i<0) p=0;
+            else  p=a[i];
             int sum=p+q+carry;
             res.push_back(sum%10);
             carry=sum/10;
@@ -28,8 +30,6 @@ public:
 
 
         }
-        if(carry)
-        res.push_back(carry);
         return res;
     }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
