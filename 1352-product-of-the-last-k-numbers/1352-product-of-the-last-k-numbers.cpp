@@ -1,22 +1,27 @@
 class ProductOfNumbers {
 public:
-   vector<int>stream;
+   vector<int>l;
     ProductOfNumbers() {
-        
+        this->l={1};
     }
     
     void add(int num) {
-        stream.push_back(num);
+        if(num!=0){
+        int last=l.back();
+        l.push_back(num*last);
+        }
+        else{
+            this->l={1};
+        }
+        return;
     }
     
     int getProduct(int k) {
-        int prod=1;
-        int n=stream.size()-1;
-        while(k--){
-            prod*=stream[n];
-            n--;
-        }
-        return prod;
+        if(k<=l.size()-1)
+        return (l.back()/l[l.size()-1-k]);
+        else
+        return 0;
+        
     }
 };
 
