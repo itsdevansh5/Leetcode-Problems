@@ -73,6 +73,7 @@ This contains solutions of leetcode problems I solved..
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsdevansh5/DSA-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/itsdevansh5/DSA-grind/tree/master/0217-contains-duplicate) |
@@ -385,6 +386,7 @@ This contains solutions of leetcode problems I solved..
 | [0151-reverse-words-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itsdevansh5/DSA-grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsdevansh5/DSA-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0234-palindrome-linked-list) |
@@ -418,6 +420,7 @@ This contains solutions of leetcode problems I solved..
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsdevansh5/DSA-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0287-find-the-duplicate-number) |
