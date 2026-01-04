@@ -9,7 +9,7 @@ public:
                 rev=rev*10+(org%10);
                 org/=10;
             }
-            if(s.find(rev)==s.end()) s.insert(rev);
+            s.insert(rev);
 
         }
         return s.size();
