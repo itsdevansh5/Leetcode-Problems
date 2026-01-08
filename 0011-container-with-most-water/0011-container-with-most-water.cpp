@@ -5,11 +5,13 @@ public:
         int j=height.size()-1;
         int maxA=INT_MIN;
         while(i<j){
-         int currA=(min(height[i],height[j])*(j-i));
+            int a=height[i];
+            int b=height[j];
+         int currA=(min(a,b)*(j-i));
          if(currA>maxA) maxA=currA;
 
-         if(height[i]>height[j]) j--;
-         else if(height[i]<height[j]) i++;
+         if(a>b) j--;
+         else if(a<b) i++;
          else{
             i++;
             j--;
