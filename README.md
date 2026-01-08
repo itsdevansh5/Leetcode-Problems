@@ -52,6 +52,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0001-two-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/itsdevansh5/DSA-grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/itsdevansh5/DSA-grind/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0027-remove-element) |
@@ -383,6 +384,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0027-remove-element) |
@@ -462,6 +464,7 @@ This contains solutions of leetcode problems I solved..
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
