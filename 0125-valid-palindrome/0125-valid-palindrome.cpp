@@ -1,22 +1,17 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string cleaned = "";
+     int i=0;
+     int j=s.size()-1;
+     while(i<j){
+        while(i<s.size() && !isalnum(s[i])) i++;
+        while(j>=0 && !isalnum(s[j])) j--;
+        if(i<s.size() && j>=0 && tolower(s[i])!=tolower(s[j]))
+        return false;
 
-        // Step 1: Clean the string (remove non-alphanumeric, lowercase)
-        for (char ch : s) {
-            if (isalnum(ch)) {
-                cleaned += tolower(ch);
-            }
-        }
-
-        // Step 2: Check if cleaned is a palindrome
-        string reversed = cleaned;
-        reverse(reversed.begin(), reversed.end());
-
-        return cleaned == reversed;
+        i++;
+        j--;
+     }   
+     return true;
     }
 };
