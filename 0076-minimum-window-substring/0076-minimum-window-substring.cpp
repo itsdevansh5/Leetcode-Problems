@@ -4,21 +4,23 @@ public:
      int m=s.size();
      int n=t.size();
      int i=0;
-unordered_map<char,int>p;
+int need[256]={0};
+int distinct=0;
 for(auto i:t){
-    p[i]++;
+    if(need[i]==0) distinct++;
+    need[i]++;
 }
 int k=0;
-unordered_map<char,int>q;
+int window[256]={0};
 int indx=-1;
 int minl=INT_MAX;
      for(int j=0;j<m;j++){
      char c=s[j];
-     q[c]++;
+     window[c]++;
 
-     if(p.find(c)!=p.end() && p[c]==q[c]) k++;
+     if(need[c]>0 && need[c]==window[c]) k++;
 
-     while(k==p.size()){
+     while(k==distinct){
           if(minl>(j-i+1)){
             minl=j-i+1;
             indx=i;
@@ -27,9 +29,9 @@ int minl=INT_MAX;
           }
 
         char r=s[i];
-        q[r]--;
+        window[r]--;
 
-        if(p.find(r)!=p.end() && p[r]>q[r]) k--;
+        if(need[r]>0 && need[r]>window[r]) k--;
 
         i++;
 
