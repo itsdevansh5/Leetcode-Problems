@@ -1,8 +1,6 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-     int m=s.size();
-     int n=t.size();
      int i=0;
 int need[256]={0};
 int distinct=0;
@@ -14,7 +12,7 @@ int k=0;
 int window[256]={0};
 int indx=-1;
 int minl=INT_MAX;
-     for(int j=0;j<m;j++){
+     for(int j=0;j<s.size();j++){
      char c=s[j];
      window[c]++;
 
