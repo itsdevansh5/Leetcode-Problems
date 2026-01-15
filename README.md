@@ -66,6 +66,7 @@ This contains solutions of leetcode problems I solved..
 | [0075-sort-colors](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/itsdevansh5/DSA-grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -495,6 +496,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/itsdevansh5/DSA-grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/itsdevansh5/DSA-grind/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/itsdevansh5/DSA-grind/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0227-basic-calculator-ii) |
@@ -557,6 +559,7 @@ This contains solutions of leetcode problems I solved..
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/itsdevansh5/DSA-grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0503-next-greater-element-ii) |
