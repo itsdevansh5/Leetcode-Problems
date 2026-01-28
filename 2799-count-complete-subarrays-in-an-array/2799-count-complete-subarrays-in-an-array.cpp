@@ -9,13 +9,7 @@ public:
         for(int j=0;j<nums.size();j++){
             m[nums[j]]++;
 
-            while(m.size()>n){
-                int r=nums[i];
-                i++;
-                m[r]--;
-                if(m[r]==0) m.erase(r);
-
-            }
+            
             while(m.size()==n){
                 int v=nums[i];
                 i++;
