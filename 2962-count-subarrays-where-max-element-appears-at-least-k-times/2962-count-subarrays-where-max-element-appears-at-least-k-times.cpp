@@ -7,18 +7,17 @@ public:
                  maxe=i;
             }
         }
-        unordered_map<int,int>n;
+        long long mcount=0;
         int i=0;
         long long count=0;
         for(int j=0;j<nums.size();j++){
-            n[nums[j]]++;
+            if(nums[j]==maxe) mcount++;
 
-            while(n.count(maxe)>0 && n[maxe]>=k){
+            while(mcount>=k){
                 count+=(nums.size()-j);
                 int r=nums[i];
                 i++;
-                n[r]--;
-                if(n[r]==0) n.erase(r);
+                if(r==maxe) mcount--;
             }
         }
         return count;
