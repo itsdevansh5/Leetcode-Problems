@@ -127,6 +127,7 @@ This contains solutions of leetcode problems I solved..
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/itsdevansh5/DSA-grind/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itsdevansh5/DSA-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/itsdevansh5/DSA-grind/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/itsdevansh5/DSA-grind/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3429-special-array-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/itsdevansh5/DSA-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -214,6 +215,7 @@ This contains solutions of leetcode problems I solved..
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsdevansh5/DSA-grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itsdevansh5/DSA-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/itsdevansh5/DSA-grind/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Sorting
 |  |
 | ------- |
