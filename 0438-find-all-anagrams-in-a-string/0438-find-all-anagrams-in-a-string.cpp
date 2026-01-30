@@ -1,22 +1,25 @@
 class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
-
+    
 
         vector<int>freq(26,0);
+        vector<int>org(26,0);
         vector<int>res;
         for(auto i:p) freq[i-'a']++;
-     vector<int>np(26,0);
         int i=0;
         int n=p.size();
+        int need=p.size();
         for(int j=0;j<s.size();j++){
-          np[s[j]-'a']++;
+            org[s[j]-'a']++;
+          if(freq[s[j]-'a']>=org[s[j]-'a']) need--;
 
           while((j-i+1)>n){
-            np[s[i]-'a']--;
+            if(freq[s[i]-'a']>=org[s[i]-'a']) need++;
+            org[s[i]-'a']--;
             i++;
           }
-          if((j-i+1)==n && freq==np) res.push_back(i);
+          if((j-i+1)==n && need==0) res.push_back(i);
         }
         return res;
     }
