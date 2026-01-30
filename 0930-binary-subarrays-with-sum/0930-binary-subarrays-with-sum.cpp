@@ -8,9 +8,9 @@ public:
             cursum+=nums[i];
 
             if(cursum==goal) count++;
-            if(cursum>=goal){
-                if(mp.find(cursum-goal)!=mp.end()) count+=mp[cursum-goal];
-            }
+           if (mp.count(cursum - goal))
+    count += mp[cursum - goal];
+
             mp[cursum]++;
         }
         return count;
