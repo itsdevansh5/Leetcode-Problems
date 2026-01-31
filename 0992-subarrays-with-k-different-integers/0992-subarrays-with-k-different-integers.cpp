@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int count(vector<int>nums,int k){
+    int count(const vector<int> &nums,int k){
           int i=0;
         int c=0;
         unordered_map<int,int>mp;
