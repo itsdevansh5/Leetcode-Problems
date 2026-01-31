@@ -13,7 +13,7 @@ public:
                 mp[r]--;
                 if(mp[r]==0) mp.erase(r);
              }
-             if(mp.size()<=2) maxl=max(maxl,(j-i+1));
+             maxl=max(maxl,(j-i+1));
         }
         return maxl;
     }
