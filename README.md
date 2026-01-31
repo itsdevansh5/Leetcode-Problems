@@ -110,6 +110,7 @@ This contains solutions of leetcode problems I solved..
 | [0811-subdomain-visit-count](https://github.com/itsdevansh5/DSA-grind/tree/master/0811-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0837-most-common-word) |
 | [0890-find-and-replace-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/itsdevansh5/DSA-grind/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/itsdevansh5/DSA-grind/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -184,6 +185,7 @@ This contains solutions of leetcode problems I solved..
 | [0837-most-common-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0837-most-common-word) |
 | [0859-buddy-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/itsdevansh5/DSA-grind/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/itsdevansh5/DSA-grind/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0930-binary-subarrays-with-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -214,6 +216,7 @@ This contains solutions of leetcode problems I solved..
 | [0219-contains-duplicate-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
+| [0904-fruit-into-baskets](https://github.com/itsdevansh5/DSA-grind/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/itsdevansh5/DSA-grind/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
