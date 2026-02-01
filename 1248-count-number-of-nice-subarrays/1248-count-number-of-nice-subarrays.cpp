@@ -1,6 +1,7 @@
 class Solution {
 public:
     int oddc(vector<int> & nums,int k){
+        if(k<0) return 0;
           int odd=0;
         int i=0;
         int count=0;
