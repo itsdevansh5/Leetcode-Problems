@@ -196,6 +196,7 @@ This contains solutions of leetcode problems I solved..
 | [1207-unique-number-of-occurrences](https://github.com/itsdevansh5/DSA-grind/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-balloons](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-balloons) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/itsdevansh5/DSA-grind/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsdevansh5/DSA-grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -226,6 +227,7 @@ This contains solutions of leetcode problems I solved..
 | [0992-subarrays-with-k-different-integers](https://github.com/itsdevansh5/DSA-grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/itsdevansh5/DSA-grind/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsdevansh5/DSA-grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itsdevansh5/DSA-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -332,6 +334,7 @@ This contains solutions of leetcode problems I solved..
 | [1078-remove-outermost-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-balloons](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-balloons) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/itsdevansh5/DSA-grind/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsdevansh5/DSA-grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
