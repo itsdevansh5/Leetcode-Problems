@@ -4,8 +4,8 @@ public:
         int i=0;
         int j=nums.size()-1;
         while(i<j){
-            if(nums[i]%2==0) i++;
-            if(nums[j]%2!=0) j--;
+            while(i<nums.size() && nums[i]%2==0) i++;
+            while(j>=0 && nums[j]%2!=0) j--;
             if(i<j && nums[i]%2!=0 && nums[j]%2==0){
                 swap(nums[i],nums[j]);
                 i++;
