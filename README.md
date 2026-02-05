@@ -127,6 +127,7 @@ This contains solutions of leetcode problems I solved..
 | [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1646-kth-missing-positive-number) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/itsdevansh5/DSA-grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -260,6 +261,7 @@ This contains solutions of leetcode problems I solved..
 | [0791-custom-sort-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/itsdevansh5/DSA-grind/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3606-coupon-code-validator](https://github.com/itsdevansh5/DSA-grind/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -471,6 +473,7 @@ This contains solutions of leetcode problems I solved..
 | [0908-middle-of-the-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0953-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/itsdevansh5/DSA-grind/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -527,6 +530,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0011-container-with-most-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
