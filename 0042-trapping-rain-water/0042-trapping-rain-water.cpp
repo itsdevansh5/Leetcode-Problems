@@ -1,11 +1,11 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        vector<int>left;
+        vector<int>left(height.size());
         vector<int>right(height.size());
         int maxv=0;
         for(int i=0;i<height.size();i++){
-          left.push_back(maxv);
+          left[i]=maxv;
           maxv=max(maxv,height[i]);
         }
         maxv=0;
