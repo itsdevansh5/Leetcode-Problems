@@ -5,13 +5,15 @@ public:
         vector<int>right(height.size());
         int maxv=0;
         for(int i=0;i<height.size();i++){
-          left[i]=maxv;
+         
           maxv=max(maxv,height[i]);
+           left[i]=maxv;
         }
         maxv=0;
         for(int j=height.size()-1;j>=0;j--){
-           right[j]=maxv;
+          
            maxv=max(maxv,height[j]);
+            right[j]=maxv;
         }
         int tot=0;
         for(int i=0;i<height.size();i++){
