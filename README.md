@@ -61,6 +61,7 @@ This contains solutions of leetcode problems I solved..
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/itsdevansh5/DSA-grind/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/itsdevansh5/DSA-grind/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/itsdevansh5/DSA-grind/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/itsdevansh5/DSA-grind/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -362,6 +363,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/itsdevansh5/DSA-grind/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0119-pascals-triangle-ii) |
@@ -447,6 +449,7 @@ This contains solutions of leetcode problems I solved..
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -549,6 +552,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsdevansh5/DSA-grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/itsdevansh5/DSA-grind/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/itsdevansh5/DSA-grind/tree/master/0225-implement-stack-using-queues) |
@@ -612,6 +616,7 @@ This contains solutions of leetcode problems I solved..
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsdevansh5/DSA-grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
