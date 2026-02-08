@@ -111,6 +111,7 @@ This contains solutions of leetcode problems I solved..
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 | [0811-subdomain-visit-count](https://github.com/itsdevansh5/DSA-grind/tree/master/0811-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0837-most-common-word) |
+| [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/itsdevansh5/DSA-grind/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/itsdevansh5/DSA-grind/tree/master/0905-sort-array-by-parity) |
@@ -260,6 +261,7 @@ This contains solutions of leetcode problems I solved..
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0791-custom-sort-string) |
+| [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/itsdevansh5/DSA-grind/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -474,6 +476,7 @@ This contains solutions of leetcode problems I solved..
 | [0443-string-compression](https://github.com/itsdevansh5/DSA-grind/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/itsdevansh5/DSA-grind/tree/master/0874-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/itsdevansh5/DSA-grind/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0953-reverse-only-letters) |
@@ -536,6 +539,7 @@ This contains solutions of leetcode problems I solved..
 | [0011-container-with-most-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
