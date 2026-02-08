@@ -5,24 +5,15 @@ public:
         int i=0;
         int j=people.size()-1;
         int count=0;
-        while(i<j && (people[j]==limit || people[i]+people[j]>limit)){
-            count++;
-            j--;
-        }
         while(i<=j){
-            if(people[i]+people[j]<=limit){
-                count++;
-                i++;
-                j--;
-            }
-            else if(i<j){
-                j--;
-                count++;
-            }
-            else{
-                count++;
-                i++;
-            }
+           if(people[i]+people[j]<=limit){
+            i++;
+            j--;
+           }
+           else{
+            j--;
+           }
+           count++;
         }
         return count;
     }
