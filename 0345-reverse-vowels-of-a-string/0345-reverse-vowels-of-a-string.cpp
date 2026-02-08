@@ -3,7 +3,7 @@ public:
     string reverseVowels(string s) {
         vector<bool> isVowel(128, false);
         for (char c : "aeiouAEIOU") {
-            isVowel[c] = true;
+            if (c != '\0') isVowel[c] = true;
         }
 
         int i = 0, j = s.size() - 1;
