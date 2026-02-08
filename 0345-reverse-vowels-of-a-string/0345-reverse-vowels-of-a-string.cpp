@@ -5,8 +5,8 @@ public:
         set<char> v = { 'a','e','i','o','u','A','E','I','O','U' };
 
         while (i < j) {
-            while (i < j && v.find(s[i]) == v.end()) i++;
-            while (i < j && v.find(s[j]) == v.end()) j--;
+            while (i<s.size() && v.find(s[i]) == v.end()) i++;
+            while (j>=0 && v.find(s[j]) == v.end()) j--;
 
             if (i < j) {
                 swap(s[i], s[j]);
