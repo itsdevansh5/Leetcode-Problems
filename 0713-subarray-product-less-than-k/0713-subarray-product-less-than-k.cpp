@@ -4,7 +4,6 @@ public:
         if(k<2) return 0;
         int count=0;
         int i=0;
-        int j=nums.size()-1;
         long long curP=1;
         for(int j=0;j<nums.size();j++){
              curP*=nums[j];
