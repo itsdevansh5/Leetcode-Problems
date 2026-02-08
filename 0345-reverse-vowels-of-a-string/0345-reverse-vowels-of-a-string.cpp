@@ -1,17 +1,19 @@
 class Solution {
 public:
     string reverseVowels(string s) {
+        vector<bool> isVowel(128, false);
+        for (char c : "aeiouAEIOU") {
+            if (c != '\0') isVowel[c] = true;
+        }
+
         int i = 0, j = s.size() - 1;
-        set<char> v = { 'a','e','i','o','u','A','E','I','O','U' };
 
         while (i < j) {
-            while (i<s.size() && v.find(s[i]) == v.end()) i++;
-            while (j>=0 && v.find(s[j]) == v.end()) j--;
+            while (i < j && !isVowel[s[i]]) i++;
+            while (i < j && !isVowel[s[j]]) j--;
 
             if (i < j) {
-                swap(s[i], s[j]);
-                i++;
-                j--;
+                swap(s[i++], s[j--]);
             }
         }
         return s;
