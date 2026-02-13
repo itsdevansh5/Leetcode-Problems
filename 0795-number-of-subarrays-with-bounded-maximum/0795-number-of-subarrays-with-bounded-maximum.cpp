@@ -1,22 +1,21 @@
 class Solution {
 public:
-    int count(vector<int>&nums,int k){
-        int i=0;
-        long long  c=0;
-        bool invalid=false;
-        for(int j=0;j<nums.size();j++){
-            if(nums[j]>k) invalid=true;
+    int count(vector<int>& nums, int k){
+    long long c = 0;
+    int len = 0;
 
-            while(invalid){
-                int r=nums[i];
-                i++;
-                if(r>k) invalid=false;
-            }
-            c+=(j-i+1);
+    for(int j = 0; j < nums.size(); j++){
+        if(nums[j] <= k){
+            len++;
+        } else {
+            len = 0;
         }
-        return c;
+        c += len;
     }
+    return c;
+}
+
     int numSubarrayBoundedMax(vector<int>& nums, int left, int right) {
-        return abs(count(nums,right)-count(nums,left-1));
+        return count(nums,right)-count(nums,left-1);
     }
 };
