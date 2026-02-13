@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int count(vector<int>& nums, int k){
+    long long count(vector<int>& nums, int k){
     long long c = 0;
     int len = 0;
 
