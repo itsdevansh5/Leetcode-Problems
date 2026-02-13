@@ -110,6 +110,7 @@ This contains solutions of leetcode problems I solved..
 | [0735-asteroid-collision](https://github.com/itsdevansh5/DSA-grind/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/itsdevansh5/DSA-grind/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0811-subdomain-visit-count](https://github.com/itsdevansh5/DSA-grind/tree/master/0811-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0837-most-common-word) |
 | [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
@@ -480,6 +481,7 @@ This contains solutions of leetcode problems I solved..
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/itsdevansh5/DSA-grind/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0680-valid-palindrome-ii) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0874-backspace-string-compare](https://github.com/itsdevansh5/DSA-grind/tree/master/0874-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/itsdevansh5/DSA-grind/tree/master/0905-sort-array-by-parity) |
