@@ -2,14 +2,19 @@ class Solution {
 public:
     string mapWordWeights(vector<string>& words, vector<int>& weights) {
         string output;
-        for(auto i:words){
-            int tot=0;
-            for(auto j:i){
-                tot+=weights[j-'a'];
+
+        for(const string& word : words){
+            int tot = 0;
+
+            for(char ch : word){
+                tot += weights[ch - 'a'];
             }
-            tot%=26;
-            output+=char(97+25-tot);
+
+            tot %= 26;
+
+            output += char('a' + 25 - tot);
         }
+
         return output;
     }
 };
