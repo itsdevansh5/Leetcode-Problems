@@ -471,6 +471,7 @@ This contains solutions of leetcode problems I solved..
 | [0075-sort-colors](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/itsdevansh5/DSA-grind/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0142-linked-list-cycle-ii) |
@@ -621,6 +622,7 @@ This contains solutions of leetcode problems I solved..
 | [0061-rotate-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/itsdevansh5/DSA-grind/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/itsdevansh5/DSA-grind/tree/master/0146-lru-cache) |
