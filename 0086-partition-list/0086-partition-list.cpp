@@ -1,34 +1,31 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        ListNode * dummy=head;
-        ListNode dummybefore(0);
-        ListNode dummyafter(0);
-        ListNode * before=&dummybefore;
-        ListNode * after=&dummyafter;
-        while(dummy!=nullptr){
-            if(dummy->val>=x){
-                after->next=dummy;
-                after=after->next;
+        ListNode dummyBefore(0);
+        ListNode dummyAfter(0);
+
+        ListNode* before = &dummyBefore;
+        ListNode* after = &dummyAfter;
+
+        ListNode* curr = head;
+
+        while (curr != nullptr) {
+            ListNode* nextNode = curr->next;  // 1️⃣ Save next
+            curr->next = nullptr;             // 2️⃣ Detach current node
+
+            if (curr->val < x) {
+                before->next = curr;          // 3️⃣ Attach to before list
+                before = before->next;
+            } else {
+                after->next = curr;           // 3️⃣ Attach to after list
+                after = after->next;
             }
-            else{
-                before->next=dummy;
-                before=before->next;
-            }
-            dummy=dummy->next;
+
+            curr = nextNode;                  // 4️⃣ Move forward safely
         }
-        after->next=nullptr;
-        before->next=dummyafter.next;
-        return dummybefore.next;
+
+        before->next = dummyAfter.next;       // 5️⃣ Connect two lists
+
+        return dummyBefore.next;
     }
 };
