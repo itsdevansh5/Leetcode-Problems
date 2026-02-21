@@ -196,6 +196,7 @@ This contains solutions of leetcode problems I solved..
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/itsdevansh5/DSA-grind/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/itsdevansh5/DSA-grind/tree/master/0811-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0837-most-common-word) |
@@ -347,6 +348,7 @@ This contains solutions of leetcode problems I solved..
 | [0648-replace-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/itsdevansh5/DSA-grind/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/itsdevansh5/DSA-grind/tree/master/0811-subdomain-visit-count) |
 | [0812-rotate-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0812-rotate-string) |
@@ -491,6 +493,7 @@ This contains solutions of leetcode problems I solved..
 | [0392-is-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/itsdevansh5/DSA-grind/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/itsdevansh5/DSA-grind/tree/master/0763-partition-labels) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0874-backspace-string-compare](https://github.com/itsdevansh5/DSA-grind/tree/master/0874-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
@@ -559,6 +562,7 @@ This contains solutions of leetcode problems I solved..
 | [0011-container-with-most-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
 | [0680-valid-palindrome-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/itsdevansh5/DSA-grind/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
