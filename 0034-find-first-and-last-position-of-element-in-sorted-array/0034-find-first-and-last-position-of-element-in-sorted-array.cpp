@@ -1,25 +1,42 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
+    int firstocc(vector<int>& nums,int target){
         int l=0;
         int h=nums.size()-1;
+        int ans=-1;
         while(l<=h){
-            int mid=(l+h)/2;
+            int mid=l+(h-l)/2;
             if(nums[mid]==target){
-                int n=std::count(nums.begin(),nums.end(),target);
-                auto it=std::find(nums.begin(),nums.end(),target);
-                int a=std::distance(nums.begin(),it);
-                int b=a+n-1;
-                vector<int>vec={a,b};
-                return vec;
+                ans=mid;
+                h=mid-1;
             }
-            else if(nums[mid]>target)
-            h=mid-1;
-            else
+            else if(nums[mid]>target) h=mid-1;
+            else l=mid+1;
+        }
+        return ans;
+    }
+    int lastocc(vector<int>& nums,int target){
+        int l=0;
+        int h=nums.size()-1;
+        int ans=-1;
+        while(l<=h){
+        int mid=l+(h-l)/2;
+        if(nums[mid]==target){
+             ans=mid;
             l=mid+1;
         }
-        vector<int>vec={-1,-1};
-        return vec;
-        
+        else if(nums[mid]>target) h=mid-1;
+        else l=mid+1;
+        }
+        return ans;
+    }
+    vector<int> searchRange(vector<int>& nums, int target) {
+        vector<int>res(2);
+        res[0]=firstocc(nums,target);
+        res[1]=lastocc(nums,target);
+        return res;
+
+
+
     }
 };
