@@ -1,25 +1,29 @@
 class Solution {
 public:
     int findLeastNumOfUniqueInts(vector<int>& arr, int k) {
-        unordered_map<int,int>mp;
-        for(auto i:arr){
-            mp[i]++;
-        }
-        vector<int>val;
-        for(auto i:mp){
-            val.push_back(i.first);
-        }
-        std::sort(val.begin(),val.end(),[&](int a,int b){return mp[a]>mp[b];});
-        while(k>0){
-            int r=val.back();
-            if(k>=mp[r])
-            k-=mp[r];
-            else
-            break;
-            val.pop_back();
+        unordered_map<int,int> mp;
 
-        }
-        return val.size();
+        for(int num : arr)
+            mp[num]++;
 
+        vector<int> freq;
+
+        for(auto &p : mp)
+            freq.push_back(p.second);
+
+        sort(freq.begin(), freq.end());  // ascending
+
+        int unique = freq.size();
+
+        for(int f : freq) {
+            if(k >= f) {
+                k -= f;
+                unique--;
+            } else {
+                break;
+            }
+        }
+
+        return unique;
     }
 };
