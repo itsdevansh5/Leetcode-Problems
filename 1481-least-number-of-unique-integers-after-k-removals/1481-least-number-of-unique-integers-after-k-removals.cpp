@@ -5,12 +5,12 @@ public:
         for(int num:arr){
             mp[num]++;
         }
-        vector<int>freq(1e5);
+        vector<int>freq(arr.size()+1);
         for(auto &i:mp){
             freq[i.second]++;
         }
         int unique=mp.size();
-        int i=0;
+        int i=1;
         while(i<freq.size() && k>0){
              while(freq[i]>0 && k>=i){
                 k-=i;
