@@ -257,6 +257,7 @@ This contains solutions of leetcode problems I solved..
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsdevansh5/DSA-grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/itsdevansh5/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itsdevansh5/DSA-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/itsdevansh5/DSA-grind/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -381,6 +382,7 @@ This contains solutions of leetcode problems I solved..
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/itsdevansh5/DSA-grind/tree/master/2427-first-letter-to-appear-twice) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/itsdevansh5/DSA-grind/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2730-find-the-longest-semi-repetitive-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [3606-coupon-code-validator](https://github.com/itsdevansh5/DSA-grind/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
