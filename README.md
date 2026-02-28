@@ -151,6 +151,7 @@ This contains solutions of leetcode problems I solved..
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/itsdevansh5/DSA-grind/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/itsdevansh5/DSA-grind/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3429-special-array-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/itsdevansh5/DSA-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3583-count-special-triplets](https://github.com/itsdevansh5/DSA-grind/tree/master/3583-count-special-triplets) |
@@ -261,6 +262,7 @@ This contains solutions of leetcode problems I solved..
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/itsdevansh5/DSA-grind/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
