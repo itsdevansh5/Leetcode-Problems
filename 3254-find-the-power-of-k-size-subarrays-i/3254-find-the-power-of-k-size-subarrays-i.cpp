@@ -8,7 +8,7 @@ public:
           if(j>0 && nums[j]-nums[j-1]!=1) valid++;
 
           while((j-i+1)>k){
-            if(nums[i]-nums[i+1]!=-1) valid--;
+            if(nums[i+1]-nums[i]!=1) valid--;
             i++;
           }
           if((j-i+1)==k && valid==0) res.push_back(nums[j]);
