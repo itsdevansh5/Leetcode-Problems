@@ -378,6 +378,7 @@ This contains solutions of leetcode problems I solved..
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/itsdevansh5/DSA-grind/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsdevansh5/DSA-grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/itsdevansh5/DSA-grind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -582,6 +583,7 @@ This contains solutions of leetcode problems I solved..
 | [0763-partition-labels](https://github.com/itsdevansh5/DSA-grind/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/itsdevansh5/DSA-grind/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
