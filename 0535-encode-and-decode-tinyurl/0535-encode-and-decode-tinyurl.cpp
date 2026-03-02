@@ -15,16 +15,9 @@ public:
 
     // Decodes a shortened URL to its original URL.
     string decode(string shortUrl) {
-        int num=0;
-        int i=0;
-        while(i<shortUrl.size()){
-            while(i<shortUrl.size() && isdigit(shortUrl[i])){
-                num=num*10+(shortUrl[i]-'0');
-                i++;
-            }
-            i++;
-        }
-        return mp[num];
+       string id = shortUrl.substr(domain.length());
+    int num = stoi(id);
+    return mp[num];
     }
 };
 
