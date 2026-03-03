@@ -87,6 +87,7 @@ This contains solutions of leetcode problems I solved..
 | [0217-contains-duplicate](https://github.com/itsdevansh5/DSA-grind/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/itsdevansh5/DSA-grind/tree/master/0283-move-zeroes) |
@@ -246,6 +247,7 @@ This contains solutions of leetcode problems I solved..
 | [0076-minimum-window-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/itsdevansh5/DSA-grind/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
@@ -633,6 +635,7 @@ This contains solutions of leetcode problems I solved..
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
@@ -670,6 +673,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/itsdevansh5/DSA-grind/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/itsdevansh5/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
@@ -729,4 +733,8 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/itsdevansh5/DSA-grind/tree/master/0535-encode-and-decode-tinyurl) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
