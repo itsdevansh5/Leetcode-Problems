@@ -261,6 +261,7 @@ This contains solutions of leetcode problems I solved..
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/itsdevansh5/DSA-grind/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsdevansh5/DSA-grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/itsdevansh5/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/itsdevansh5/DSA-grind/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itsdevansh5/DSA-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -386,6 +387,7 @@ This contains solutions of leetcode problems I solved..
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsdevansh5/DSA-grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/itsdevansh5/DSA-grind/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/itsdevansh5/DSA-grind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
