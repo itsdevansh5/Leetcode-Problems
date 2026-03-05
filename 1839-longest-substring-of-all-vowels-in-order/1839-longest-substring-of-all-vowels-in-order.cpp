@@ -1,19 +1,26 @@
 class Solution {
 public:
     int longestBeautifulSubstring(string word) {
-     int i=0;
-     int maxl=0;
-     int count=1;
-     for(int j=0;j<word.size();j++){
-        if(j>0 && word[j]>word[j-1]) count++;
-        else if(j>0 && word[j]<word[j-1]){
-            i=j;
-            count=1;
+        const auto n = word.size();
+
+        int cnt = 1;
+        int len = 1;
+        int max_len = 0;
+        for (int i = 1; i != n; ++i) {
+            if (word[i - 1] == word[i]) {
+                ++len;
+            } else if (word[i - 1] < word[i]) {
+                ++len;
+                ++cnt;
+            } else {
+                cnt = 1;
+                len = 1;
+            }
+            
+            if (cnt == 5) {
+                max_len = max(max_len, len);
+            }
         }
-
-        if(count==5) maxl=max(maxl,(j-i+1));
-
-     }   
-     return maxl;
+        return max_len;
     }
 };
