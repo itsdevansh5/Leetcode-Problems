@@ -32,6 +32,7 @@ This contains solutions of leetcode problems I solved..
 | [0405-convert-a-number-to-hexadecimal](https://github.com/itsdevansh5/DSA-grind/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
+| [0523-continuous-subarray-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/itsdevansh5/DSA-grind/tree/master/0537-complex-number-multiplication) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
@@ -102,6 +103,7 @@ This contains solutions of leetcode problems I solved..
 | [0485-max-consecutive-ones](https://github.com/itsdevansh5/DSA-grind/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0560-subarray-sum-equals-k) |
@@ -198,6 +200,7 @@ This contains solutions of leetcode problems I solved..
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/itsdevansh5/DSA-grind/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0560-subarray-sum-equals-k) |
@@ -417,6 +420,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
