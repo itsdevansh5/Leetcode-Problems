@@ -18,6 +18,7 @@ This contains solutions of leetcode problems I solved..
 | [0067-add-binary](https://github.com/itsdevansh5/DSA-grind/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/itsdevansh5/DSA-grind/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/itsdevansh5/DSA-grind/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/itsdevansh5/DSA-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/itsdevansh5/DSA-grind/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/itsdevansh5/DSA-grind/tree/master/0172-factorial-trailing-zeroes) |
@@ -78,6 +79,7 @@ This contains solutions of leetcode problems I solved..
 | [0128-longest-consecutive-sequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/itsdevansh5/DSA-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0162-find-peak-element) |
@@ -619,6 +621,7 @@ This contains solutions of leetcode problems I solved..
 | [0020-valid-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsdevansh5/DSA-grind/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/itsdevansh5/DSA-grind/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/itsdevansh5/DSA-grind/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/itsdevansh5/DSA-grind/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0227-basic-calculator-ii) |
