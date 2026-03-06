@@ -8,7 +8,7 @@ public:
             cursum+=nums[i];
             int r=cursum%k;
              if(rem.find(r)!=rem.end() && (i-rem[r]>=2)) return true;
-            if(rem.find(r)==rem.end())
+            else if(rem.find(r)==rem.end())
             rem[r]=i;
         }
         return false;
