@@ -34,6 +34,7 @@ This contains solutions of leetcode problems I solved..
 | [0445-add-two-numbers-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/itsdevansh5/DSA-grind/tree/master/0537-complex-number-multiplication) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -418,6 +419,7 @@ This contains solutions of leetcode problems I solved..
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/itsdevansh5/DSA-grind/tree/master/0413-arithmetic-slices) |
+| [0509-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/itsdevansh5/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -466,6 +468,7 @@ This contains solutions of leetcode problems I solved..
 | [0206-reverse-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -550,6 +553,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/itsdevansh5/DSA-grind/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
