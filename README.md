@@ -37,6 +37,7 @@ This contains solutions of leetcode problems I solved..
 | [0509-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/itsdevansh5/DSA-grind/tree/master/0537-complex-number-multiplication) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
@@ -115,6 +116,7 @@ This contains solutions of leetcode problems I solved..
 | [0560-subarray-sum-equals-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/itsdevansh5/DSA-grind/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/itsdevansh5/DSA-grind/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
@@ -294,6 +296,7 @@ This contains solutions of leetcode problems I solved..
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
