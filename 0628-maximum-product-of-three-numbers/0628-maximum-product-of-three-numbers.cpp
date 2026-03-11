@@ -1,12 +1,12 @@
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
-        std::sort(nums.begin(),nums.end());
-        int res=1;
-        int n=nums.size();
-        int a=nums[0]*nums[1]*nums[n-1];
-        int b=nums[n-1]*nums[n-2]*nums[n-3];
-        int c=nums[0]*nums[1]*nums[2];
-        return max({a,b,c});
+        sort(nums.begin(), nums.end());
+        int n = nums.size();
+
+        int case1 = nums[n-1] * nums[n-2] * nums[n-3];
+        int case2 = nums[0] * nums[1] * nums[n-1];
+
+        return max(case1, case2);
     }
 };
