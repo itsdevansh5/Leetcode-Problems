@@ -148,6 +148,7 @@ This contains solutions of leetcode problems I solved..
 | [1512-number-of-good-pairs](https://github.com/itsdevansh5/DSA-grind/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1646-kth-missing-positive-number) |
+| [1695-maximum-erasure-value](https://github.com/itsdevansh5/DSA-grind/tree/master/1695-maximum-erasure-value) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/itsdevansh5/DSA-grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -238,6 +239,7 @@ This contains solutions of leetcode problems I solved..
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/itsdevansh5/DSA-grind/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/itsdevansh5/DSA-grind/tree/master/1512-number-of-good-pairs) |
+| [1695-maximum-erasure-value](https://github.com/itsdevansh5/DSA-grind/tree/master/1695-maximum-erasure-value) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/itsdevansh5/DSA-grind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -273,6 +275,7 @@ This contains solutions of leetcode problems I solved..
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/itsdevansh5/DSA-grind/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsdevansh5/DSA-grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/itsdevansh5/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1695-maximum-erasure-value](https://github.com/itsdevansh5/DSA-grind/tree/master/1695-maximum-erasure-value) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/itsdevansh5/DSA-grind/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itsdevansh5/DSA-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/2730-find-the-longest-semi-repetitive-substring) |
