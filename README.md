@@ -156,6 +156,7 @@ This contains solutions of leetcode problems I solved..
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/itsdevansh5/DSA-grind/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/itsdevansh5/DSA-grind/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/itsdevansh5/DSA-grind/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itsdevansh5/DSA-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/itsdevansh5/DSA-grind/tree/master/2574-left-and-right-sum-differences) |
@@ -407,6 +408,7 @@ This contains solutions of leetcode problems I solved..
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/itsdevansh5/DSA-grind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/itsdevansh5/DSA-grind/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2427-first-letter-to-appear-twice](https://github.com/itsdevansh5/DSA-grind/tree/master/2427-first-letter-to-appear-twice) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/itsdevansh5/DSA-grind/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/2730-find-the-longest-semi-repetitive-substring) |
@@ -446,6 +448,7 @@ This contains solutions of leetcode problems I solved..
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/itsdevansh5/DSA-grind/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/itsdevansh5/DSA-grind/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/itsdevansh5/DSA-grind/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/itsdevansh5/DSA-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
