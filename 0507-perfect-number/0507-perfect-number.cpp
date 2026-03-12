@@ -7,6 +7,7 @@ public:
         for(int i = 2; i <= t; i++){
             if(num % i == 0){
           sum += i;
+          if(i!=num/i)
           sum+=(num/i);
             }
         }
