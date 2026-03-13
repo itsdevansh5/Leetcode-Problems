@@ -149,6 +149,7 @@ This contains solutions of leetcode problems I solved..
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1646-kth-missing-positive-number) |
 | [1695-maximum-erasure-value](https://github.com/itsdevansh5/DSA-grind/tree/master/1695-maximum-erasure-value) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/itsdevansh5/DSA-grind/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/itsdevansh5/DSA-grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -404,6 +405,7 @@ This contains solutions of leetcode problems I solved..
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itsdevansh5/DSA-grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/itsdevansh5/DSA-grind/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/itsdevansh5/DSA-grind/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/itsdevansh5/DSA-grind/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -448,6 +450,7 @@ This contains solutions of leetcode problems I solved..
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/itsdevansh5/DSA-grind/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/itsdevansh5/DSA-grind/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/itsdevansh5/DSA-grind/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/itsdevansh5/DSA-grind/tree/master/2574-left-and-right-sum-differences) |
