@@ -27,6 +27,7 @@ This contains solutions of leetcode problems I solved..
 | [0227-basic-calculator-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/itsdevansh5/DSA-grind/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/itsdevansh5/DSA-grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/itsdevansh5/DSA-grind/tree/master/0398-random-pick-index) |
@@ -431,6 +432,7 @@ This contains solutions of leetcode problems I solved..
 | [0118-pascals-triangle](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0357-count-numbers-with-unique-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/itsdevansh5/DSA-grind/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0509-fibonacci-number) |
@@ -773,4 +775,8 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0239-sliding-window-maximum) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
