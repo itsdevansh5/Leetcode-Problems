@@ -141,6 +141,7 @@ This contains solutions of leetcode problems I solved..
 | [0974-subarray-sums-divisible-by-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/itsdevansh5/DSA-grind/tree/master/0992-subarrays-with-k-different-integers) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/itsdevansh5/DSA-grind/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/itsdevansh5/DSA-grind/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
@@ -236,6 +237,7 @@ This contains solutions of leetcode problems I solved..
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/itsdevansh5/DSA-grind/tree/master/0992-subarrays-with-k-different-integers) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/itsdevansh5/DSA-grind/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/itsdevansh5/DSA-grind/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-balloons](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-balloons) |
@@ -337,6 +339,7 @@ This contains solutions of leetcode problems I solved..
 | [0920-uncommon-words-from-two-sentences](https://github.com/itsdevansh5/DSA-grind/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0992-subarrays-with-k-different-integers](https://github.com/itsdevansh5/DSA-grind/tree/master/0992-subarrays-with-k-different-integers) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/itsdevansh5/DSA-grind/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1297-maximum-number-of-balloons](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/itsdevansh5/DSA-grind/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/itsdevansh5/DSA-grind/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
