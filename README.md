@@ -136,6 +136,7 @@ This contains solutions of leetcode problems I solved..
 | [0904-fruit-into-baskets](https://github.com/itsdevansh5/DSA-grind/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/itsdevansh5/DSA-grind/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/itsdevansh5/DSA-grind/tree/master/0907-koko-eating-bananas) |
+| [0923-3sum-with-multiplicity](https://github.com/itsdevansh5/DSA-grind/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -233,6 +234,7 @@ This contains solutions of leetcode problems I solved..
 | [0890-find-and-replace-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/itsdevansh5/DSA-grind/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/itsdevansh5/DSA-grind/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0923-3sum-with-multiplicity](https://github.com/itsdevansh5/DSA-grind/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -317,6 +319,7 @@ This contains solutions of leetcode problems I solved..
 | [0791-custom-sort-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/itsdevansh5/DSA-grind/tree/master/0905-sort-array-by-parity) |
+| [0923-3sum-with-multiplicity](https://github.com/itsdevansh5/DSA-grind/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/itsdevansh5/DSA-grind/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -337,6 +340,7 @@ This contains solutions of leetcode problems I solved..
 | [0811-subdomain-visit-count](https://github.com/itsdevansh5/DSA-grind/tree/master/0811-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/itsdevansh5/DSA-grind/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0923-3sum-with-multiplicity](https://github.com/itsdevansh5/DSA-grind/tree/master/0923-3sum-with-multiplicity) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0992-subarrays-with-k-different-integers](https://github.com/itsdevansh5/DSA-grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/itsdevansh5/DSA-grind/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -572,6 +576,7 @@ This contains solutions of leetcode problems I solved..
 | [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/itsdevansh5/DSA-grind/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0908-middle-of-the-linked-list) |
+| [0923-3sum-with-multiplicity](https://github.com/itsdevansh5/DSA-grind/tree/master/0923-3sum-with-multiplicity) |
 | [0953-reverse-only-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0953-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
