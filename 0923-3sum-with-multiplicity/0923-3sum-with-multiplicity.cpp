@@ -1,28 +1,50 @@
 class Solution {
 public:
     int threeSumMulti(vector<int>& arr, int target) {
-        vector<int>freq(101,0);
-        for(int i:arr) freq[i]++;
-        int count=0;
-        int mod=1e9+7;
-       for(int i = 0; i < arr.size(); i++){
-    freq[arr[i]]--;  
+        long long count = 0;
+        int mod = 1e9 + 7;
 
-    for(int j = i + 1; j < arr.size(); j++){
-        freq[arr[j]]--;  
+        vector<long long> freq(101, 0);
+        for(int x : arr) freq[x]++;
 
-        int req = target - (arr[i] + arr[j]);
+        for(int i = 0; i <= 100; i++){
+            if(freq[i] == 0) continue;
 
-        if(req >= 0 && req <= 100){
-            count = (count + freq[req]) % mod;
+            for(int j = i; j <= 100; j++){
+                if(freq[j] == 0) continue;
+
+                int k = target - (i + j);
+
+                if(k < 0 || k > 100 || freq[k] == 0) continue;
+
+                // IMPORTANT: enforce ordering
+                if(k < j) continue;
+
+                long long a = freq[i];
+                long long b = freq[j];
+                long long c = freq[k];
+
+                if(i == j && j == k){
+                    // all same
+                    count += (a * (a - 1) * (a - 2)) / 6;
+                }
+                else if(i == j && j != k){
+                    // i == j < k
+                    count += (a * (a - 1) / 2) * c;
+                }
+                else if(i < j && j == k){
+                    // i < j == k
+                    count += a * (b * (b - 1) / 2);
+                }
+                else{
+                    // all different
+                    count += a * b * c;
+                }
+
+                count %= mod;
+            }
         }
-    }
 
-    
-    for(int j = i + 1; j < arr.size(); j++){
-        freq[arr[j]]++;
-    }
-}
         return count;
     }
 };
