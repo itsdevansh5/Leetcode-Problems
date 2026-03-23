@@ -143,6 +143,7 @@ This contains solutions of leetcode problems I solved..
 | [0977-squares-of-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/itsdevansh5/DSA-grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/itsdevansh5/DSA-grind/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1019-next-greater-node-in-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/itsdevansh5/DSA-grind/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
@@ -683,6 +684,7 @@ This contains solutions of leetcode problems I solved..
 | [0739-daily-temperatures](https://github.com/itsdevansh5/DSA-grind/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/itsdevansh5/DSA-grind/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/itsdevansh5/DSA-grind/tree/master/0937-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/1019-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -722,6 +724,7 @@ This contains solutions of leetcode problems I solved..
 | [0328-odd-even-linked-list](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0908-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/1019-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Queue
 |  |
@@ -740,6 +743,7 @@ This contains solutions of leetcode problems I solved..
 | [0503-next-greater-element-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/itsdevansh5/DSA-grind/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/itsdevansh5/DSA-grind/tree/master/0937-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/1019-next-greater-node-in-linked-list) |
 ## Data Stream
 |  |
 | ------- |
