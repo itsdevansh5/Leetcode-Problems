@@ -24,6 +24,7 @@ This contains solutions of leetcode problems I solved..
 | [0172-factorial-trailing-zeroes](https://github.com/itsdevansh5/DSA-grind/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/itsdevansh5/DSA-grind/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0268-missing-number) |
@@ -94,6 +95,7 @@ This contains solutions of leetcode problems I solved..
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itsdevansh5/DSA-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/itsdevansh5/DSA-grind/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/itsdevansh5/DSA-grind/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0219-contains-duplicate-ii) |
@@ -754,6 +756,7 @@ This contains solutions of leetcode problems I solved..
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/itsdevansh5/DSA-grind/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 ## Doubly-Linked List
@@ -781,6 +784,7 @@ This contains solutions of leetcode problems I solved..
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/itsdevansh5/DSA-grind/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/itsdevansh5/DSA-grind/tree/master/1925-count-square-sum-triples) |
 ## Reservoir Sampling
 |  |
