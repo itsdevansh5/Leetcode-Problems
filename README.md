@@ -122,6 +122,7 @@ This contains solutions of leetcode problems I solved..
 | [0560-subarray-sum-equals-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/itsdevansh5/DSA-grind/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/itsdevansh5/DSA-grind/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/itsdevansh5/DSA-grind/tree/master/0682-baseball-game) |
@@ -227,6 +228,7 @@ This contains solutions of leetcode problems I solved..
 | [0560-subarray-sum-equals-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/itsdevansh5/DSA-grind/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/itsdevansh5/DSA-grind/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/itsdevansh5/DSA-grind/tree/master/0763-partition-labels) |
@@ -405,6 +407,7 @@ This contains solutions of leetcode problems I solved..
 | [0535-encode-and-decode-tinyurl](https://github.com/itsdevansh5/DSA-grind/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/itsdevansh5/DSA-grind/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0541-reverse-string-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/itsdevansh5/DSA-grind/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
