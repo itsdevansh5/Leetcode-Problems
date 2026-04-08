@@ -165,6 +165,7 @@ This contains solutions of leetcode problems I solved..
 | [1814-count-nice-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/itsdevansh5/DSA-grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/itsdevansh5/DSA-grind/tree/master/1920-build-array-from-permutation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/itsdevansh5/DSA-grind/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -525,6 +526,7 @@ This contains solutions of leetcode problems I solved..
 | [0735-asteroid-collision](https://github.com/itsdevansh5/DSA-grind/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/itsdevansh5/DSA-grind/tree/master/0874-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1920-build-array-from-permutation](https://github.com/itsdevansh5/DSA-grind/tree/master/1920-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/itsdevansh5/DSA-grind/tree/master/3775-reverse-words-with-same-vowel-count) |
