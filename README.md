@@ -161,6 +161,7 @@ This contains solutions of leetcode problems I solved..
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1646-kth-missing-positive-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1646-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/itsdevansh5/DSA-grind/tree/master/1672-richest-customer-wealth) |
 | [1695-maximum-erasure-value](https://github.com/itsdevansh5/DSA-grind/tree/master/1695-maximum-erasure-value) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/itsdevansh5/DSA-grind/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -648,6 +649,7 @@ This contains solutions of leetcode problems I solved..
 | [0073-set-matrix-zeroes](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/itsdevansh5/DSA-grind/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/itsdevansh5/DSA-grind/tree/master/1672-richest-customer-wealth) |
 ## Union Find
 |  |
 | ------- |
