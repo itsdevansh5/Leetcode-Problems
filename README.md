@@ -153,6 +153,7 @@ This contains solutions of leetcode problems I solved..
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/itsdevansh5/DSA-grind/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1352-product-of-the-last-k-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/1352-product-of-the-last-k-numbers) |
+| [1480-running-sum-of-1d-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1480-running-sum-of-1d-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/itsdevansh5/DSA-grind/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/itsdevansh5/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -479,6 +480,7 @@ This contains solutions of leetcode problems I solved..
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/1352-product-of-the-last-k-numbers) |
+| [1480-running-sum-of-1d-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/itsdevansh5/DSA-grind/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
