@@ -13,6 +13,7 @@ public:
         for(int i=1;i<nums.size();i++){
             int v=gcd(n,nums[i]);
             n=v;
+            if(n==1) return true;
         }
         return (n==1);
     }
