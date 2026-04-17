@@ -150,6 +150,7 @@ This contains solutions of leetcode problems I solved..
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/itsdevansh5/DSA-grind/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1019-next-greater-node-in-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1095-find-in-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/itsdevansh5/DSA-grind/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1250-check-if-it-is-a-good-array) |
@@ -635,6 +636,7 @@ This contains solutions of leetcode problems I solved..
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/itsdevansh5/DSA-grind/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1095-find-in-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1646-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsdevansh5/DSA-grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3790-fruits-into-baskets-ii) |
@@ -823,4 +825,8 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0357-count-numbers-with-unique-digits) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
