@@ -59,6 +59,7 @@ This contains solutions of leetcode problems I solved..
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/itsdevansh5/DSA-grind/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
