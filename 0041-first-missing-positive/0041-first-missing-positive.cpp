@@ -3,7 +3,7 @@ public:
     int firstMissingPositive(vector<int>& nums) {
         int n=nums.size();
         for(int i=0;i<n;i++){
-            if(nums[i]<0 || nums[i]>n+1 || nums[i]==0) nums[i]=n+1;
+            if(nums[i]<=0 || nums[i]>n) nums[i]=n+1;
         }
         for(int i=0;i<n;i++){
             int v=abs(nums[i]);
