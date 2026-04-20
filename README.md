@@ -174,6 +174,7 @@ This contains solutions of leetcode problems I solved..
 | [1920-build-array-from-permutation](https://github.com/itsdevansh5/DSA-grind/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1929-concatenation-of-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/itsdevansh5/DSA-grind/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/itsdevansh5/DSA-grind/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -673,6 +674,7 @@ This contains solutions of leetcode problems I solved..
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/itsdevansh5/DSA-grind/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Trie
 |  |
 | ------- |
