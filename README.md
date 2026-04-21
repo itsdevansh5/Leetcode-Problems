@@ -52,6 +52,7 @@ This contains solutions of leetcode problems I solved..
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/itsdevansh5/DSA-grind/tree/master/1925-count-square-sum-triples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -174,6 +175,7 @@ This contains solutions of leetcode problems I solved..
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/itsdevansh5/DSA-grind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/itsdevansh5/DSA-grind/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/itsdevansh5/DSA-grind/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -784,6 +786,7 @@ This contains solutions of leetcode problems I solved..
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1250-check-if-it-is-a-good-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/itsdevansh5/DSA-grind/tree/master/1492-the-kth-factor-of-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
