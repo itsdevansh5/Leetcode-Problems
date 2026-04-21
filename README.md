@@ -45,6 +45,7 @@ This contains solutions of leetcode problems I solved..
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1250-check-if-it-is-a-good-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/1352-product-of-the-last-k-numbers) |
+| [1492-the-kth-factor-of-n](https://github.com/itsdevansh5/DSA-grind/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/itsdevansh5/DSA-grind/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/itsdevansh5/DSA-grind/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -782,6 +783,7 @@ This contains solutions of leetcode problems I solved..
 | [0258-add-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1250-check-if-it-is-a-good-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1250-check-if-it-is-a-good-array) |
+| [1492-the-kth-factor-of-n](https://github.com/itsdevansh5/DSA-grind/tree/master/1492-the-kth-factor-of-n) |
 ## Doubly-Linked List
 |  |
 | ------- |
