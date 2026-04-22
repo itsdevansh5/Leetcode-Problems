@@ -197,6 +197,7 @@ This contains solutions of leetcode problems I solved..
 | [3606-coupon-code-validator](https://github.com/itsdevansh5/DSA-grind/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/3731-find-missing-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3790-fruits-into-baskets-ii) |
+| [3903-smallest-stable-index-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3903-smallest-stable-index-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/itsdevansh5/DSA-grind/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
