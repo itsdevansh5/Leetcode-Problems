@@ -185,6 +185,7 @@ This contains solutions of leetcode problems I solved..
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/itsdevansh5/DSA-grind/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itsdevansh5/DSA-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/itsdevansh5/DSA-grind/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/itsdevansh5/DSA-grind/tree/master/2615-sum-of-distances) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsdevansh5/DSA-grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -280,6 +281,7 @@ This contains solutions of leetcode problems I solved..
 | [2427-first-letter-to-appear-twice](https://github.com/itsdevansh5/DSA-grind/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/itsdevansh5/DSA-grind/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itsdevansh5/DSA-grind/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2615-sum-of-distances](https://github.com/itsdevansh5/DSA-grind/tree/master/2615-sum-of-distances) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3583-count-special-triplets](https://github.com/itsdevansh5/DSA-grind/tree/master/3583-count-special-triplets) |
@@ -499,6 +501,7 @@ This contains solutions of leetcode problems I solved..
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/itsdevansh5/DSA-grind/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/itsdevansh5/DSA-grind/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/itsdevansh5/DSA-grind/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/itsdevansh5/DSA-grind/tree/master/2615-sum-of-distances) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/itsdevansh5/DSA-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
 ## Bit Manipulation
