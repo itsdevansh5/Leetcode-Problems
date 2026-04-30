@@ -6,9 +6,8 @@ public:
     int size;
     vector<int>dq;
     MyCircularQueue(int k) {
-        vector<int>arr(k,-1);
+        this->dq=vector<int>(k);
         this->size=k;
-        this->dq=arr;
     }
     
     bool enQueue(int value) {
@@ -22,7 +21,6 @@ public:
     
     bool deQueue() {
         if(count!=0) {
-            this->dq[(front)%size]=-1;
             front++;
             count--;
             return true;
@@ -31,11 +29,13 @@ public:
     }
     
     int Front() {
+        if(count==0) return -1;
+        else
         return dq[front%size];
     }
     
     int Rear() {
-        if(back!=0)
+        if(count!=0)
         return dq[(back-1)%size];
         else return -1;
     }
