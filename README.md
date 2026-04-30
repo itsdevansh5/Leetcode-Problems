@@ -129,6 +129,7 @@ This contains solutions of leetcode problems I solved..
 | [0575-distribute-candies](https://github.com/itsdevansh5/DSA-grind/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/itsdevansh5/DSA-grind/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0622-design-circular-queue](https://github.com/itsdevansh5/DSA-grind/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/itsdevansh5/DSA-grind/tree/master/0682-baseball-game) |
@@ -563,6 +564,7 @@ This contains solutions of leetcode problems I solved..
 | [0232-implement-queue-using-stacks](https://github.com/itsdevansh5/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/itsdevansh5/DSA-grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/itsdevansh5/DSA-grind/tree/master/0535-encode-and-decode-tinyurl) |
+| [0622-design-circular-queue](https://github.com/itsdevansh5/DSA-grind/tree/master/0622-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/itsdevansh5/DSA-grind/tree/master/0937-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/1352-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -761,6 +763,7 @@ This contains solutions of leetcode problems I solved..
 | [0237-delete-node-in-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/itsdevansh5/DSA-grind/tree/master/0622-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0908-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/1019-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -771,6 +774,7 @@ This contains solutions of leetcode problems I solved..
 | [0232-implement-queue-using-stacks](https://github.com/itsdevansh5/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/itsdevansh5/DSA-grind/tree/master/0622-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
