@@ -137,6 +137,7 @@ This contains solutions of leetcode problems I solved..
 | [0713-subarray-product-less-than-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/itsdevansh5/DSA-grind/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/itsdevansh5/DSA-grind/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/itsdevansh5/DSA-grind/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0811-subdomain-visit-count](https://github.com/itsdevansh5/DSA-grind/tree/master/0811-subdomain-visit-count) |
@@ -650,6 +651,7 @@ This contains solutions of leetcode problems I solved..
 | [0374-guess-number-higher-or-lower](https://github.com/itsdevansh5/DSA-grind/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/itsdevansh5/DSA-grind/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/itsdevansh5/DSA-grind/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
