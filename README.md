@@ -143,6 +143,7 @@ This contains solutions of leetcode problems I solved..
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0811-subdomain-visit-count](https://github.com/itsdevansh5/DSA-grind/tree/master/0811-subdomain-visit-count) |
 | [0837-most-common-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0837-most-common-word) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/itsdevansh5/DSA-grind/tree/master/0904-fruit-into-baskets) |
@@ -656,6 +657,7 @@ This contains solutions of leetcode problems I solved..
 | [0713-subarray-product-less-than-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itsdevansh5/DSA-grind/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/itsdevansh5/DSA-grind/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1095-find-in-mountain-array) |
