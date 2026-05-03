@@ -1,16 +1,16 @@
 class Solution {
 public:
     bool judgeSquareSum(int c) {
-        for(long long i=0;i*i<=c;i++){
-            int target=c-i*i;
-            int l=i;
-            int h=sqrt(c);
-            while(l<=h){
-                long long mid=l+(h-l)/2;
-                if(mid*mid==target) return true;
-                else if(mid*mid>target) h=mid-1;
-                else l=mid+1;
-            }
+        long long l=0;
+        long long h=sqrt(c);
+        while(l<=h){
+            long long sum=l*l+h*h;
+            if(sum<c) l++;
+            else if(sum>c) h--;
+            else return true;
+
+
+
         }
         return false;
     }
