@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int>arr;
-    int maxd=-1;
+    int maxd=0;
     Solution(vector<int>& w) {
         this->arr=w;
         int sum=0;
@@ -18,8 +18,7 @@ public:
         int h=this->arr.size()-1;
         while(l<=h){
             int mid=l+(h-l)/2;
-            if(arr[mid]==r) return mid;
-            else if(arr[mid]>r) h=mid-1;
+            if(arr[mid]>=r) h=mid-1;
             else l=mid+1;
         }
         return l;
