@@ -142,6 +142,7 @@ This contains solutions of leetcode problems I solved..
 | [0735-asteroid-collision](https://github.com/itsdevansh5/DSA-grind/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/itsdevansh5/DSA-grind/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itsdevansh5/DSA-grind/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/itsdevansh5/DSA-grind/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0811-subdomain-visit-count](https://github.com/itsdevansh5/DSA-grind/tree/master/0811-subdomain-visit-count) |
@@ -349,6 +350,7 @@ This contains solutions of leetcode problems I solved..
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/itsdevansh5/DSA-grind/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/itsdevansh5/DSA-grind/tree/master/0905-sort-array-by-parity) |
@@ -620,6 +622,7 @@ This contains solutions of leetcode problems I solved..
 | [0633-sum-of-square-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/itsdevansh5/DSA-grind/tree/master/0763-partition-labels) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/itsdevansh5/DSA-grind/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0874-backspace-string-compare](https://github.com/itsdevansh5/DSA-grind/tree/master/0874-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
@@ -666,6 +669,7 @@ This contains solutions of leetcode problems I solved..
 | [0713-subarray-product-less-than-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itsdevansh5/DSA-grind/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0754-reach-a-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0754-reach-a-number) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/itsdevansh5/DSA-grind/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/itsdevansh5/DSA-grind/tree/master/0907-koko-eating-bananas) |
@@ -755,6 +759,7 @@ This contains solutions of leetcode problems I solved..
 | [0347-top-k-frequent-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/itsdevansh5/DSA-grind/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2336-smallest-number-in-infinite-set](https://github.com/itsdevansh5/DSA-grind/tree/master/2336-smallest-number-in-infinite-set) |
 ## Bucket Sort
 |  |
