@@ -1,24 +1,35 @@
 class Solution {
 public:
     bool prime(int n){
-        if(n<2) return false;
-        for(int i=2;i*i<=n;i++){
-            if(n%i==0) return false;
+        if(n < 2) return false;
+
+        for(int i = 2; i * i <= n; i++){
+            if(n % i == 0)
+                return false;
         }
+
         return true;
     }
+
     int sumOfPrimesInRange(int n) {
-        int r=0;
-        int a=n;
-        while(n>0){
-            r=r*10+(n%10);
-            n/=10;
+        int original = n;
+        int rev = 0;
+
+        while(n > 0){
+            rev = rev * 10 + (n % 10);
+            n /= 10;
         }
-        int res=0;
-        for(int i=min(a,r);i<=max(a,r);i++){
-            if(prime(i)) res+=i;
+
+        int l = min(original, rev);
+        int h = max(original, rev);
+
+        int sum = 0;
+
+        for(int i = l; i <= h; i++){
+            if(prime(i))
+                sum += i;
         }
-        return res;
-        
+
+        return sum;
     }
 };
