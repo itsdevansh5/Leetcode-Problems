@@ -162,6 +162,7 @@ This contains solutions of leetcode problems I solved..
 | [1019-next-greater-node-in-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1095-find-in-mountain-array) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/itsdevansh5/DSA-grind/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1207-unique-number-of-occurrences](https://github.com/itsdevansh5/DSA-grind/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1250-check-if-it-is-a-good-array) |
@@ -270,6 +271,7 @@ This contains solutions of leetcode problems I solved..
 | [0974-subarray-sums-divisible-by-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/itsdevansh5/DSA-grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/itsdevansh5/DSA-grind/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/itsdevansh5/DSA-grind/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1207-unique-number-of-occurrences](https://github.com/itsdevansh5/DSA-grind/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-balloons](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-balloons) |
@@ -352,6 +354,7 @@ This contains solutions of leetcode problems I solved..
 | [0905-sort-array-by-parity](https://github.com/itsdevansh5/DSA-grind/tree/master/0905-sort-array-by-parity) |
 | [0923-3sum-with-multiplicity](https://github.com/itsdevansh5/DSA-grind/tree/master/0923-3sum-with-multiplicity) |
 | [0977-squares-of-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/itsdevansh5/DSA-grind/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/itsdevansh5/DSA-grind/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsdevansh5/DSA-grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -451,6 +454,7 @@ This contains solutions of leetcode problems I solved..
 | [1078-remove-outermost-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1078-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/itsdevansh5/DSA-grind/tree/master/1108-defanging-an-ip-address) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/itsdevansh5/DSA-grind/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1297-maximum-number-of-balloons](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/itsdevansh5/DSA-grind/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -667,6 +671,7 @@ This contains solutions of leetcode problems I solved..
 | [0907-koko-eating-bananas](https://github.com/itsdevansh5/DSA-grind/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1095-find-in-mountain-array) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/itsdevansh5/DSA-grind/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1646-kth-missing-positive-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1646-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsdevansh5/DSA-grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3790-fruits-into-baskets-ii) |
