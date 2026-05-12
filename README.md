@@ -46,6 +46,7 @@ This contains solutions of leetcode problems I solved..
 | [0754-reach-a-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0754-reach-a-number) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/itsdevansh5/DSA-grind/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/itsdevansh5/DSA-grind/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1250-check-if-it-is-a-good-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/1352-product-of-the-last-k-numbers) |
@@ -631,6 +632,7 @@ This contains solutions of leetcode problems I solved..
 | [0923-3sum-with-multiplicity](https://github.com/itsdevansh5/DSA-grind/tree/master/0923-3sum-with-multiplicity) |
 | [0953-reverse-only-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0953-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/itsdevansh5/DSA-grind/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -676,6 +678,7 @@ This contains solutions of leetcode problems I solved..
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1095-find-in-mountain-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/itsdevansh5/DSA-grind/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/itsdevansh5/DSA-grind/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1646-kth-missing-positive-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1646-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsdevansh5/DSA-grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3790-fruits-into-baskets-ii) |
@@ -877,4 +880,5 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/itsdevansh5/DSA-grind/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1095-find-in-mountain-array) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/itsdevansh5/DSA-grind/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
