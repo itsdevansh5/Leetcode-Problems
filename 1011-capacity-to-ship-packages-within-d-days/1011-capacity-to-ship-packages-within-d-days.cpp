@@ -1,33 +1,36 @@
 class Solution {
 public:
-    bool isPossible(vector<int>& arr,int n,int days){
-        int i=0;
-        while(i<arr.size()){
-            int sum=0;
-            while(i<arr.size() && sum+arr[i]<=n) {
-                sum+=arr[i];
-            i++;
+    bool isPossible(vector<int>& weights, int capacity, int days) {
+        int requiredDays = 1;
+        int currentWeight = 0;
+
+        for (int weight : weights) {
+            // Start new day if capacity exceeded
+            if (currentWeight + weight > capacity) {
+                requiredDays++;
+                currentWeight = 0;
             }
-            days--;
-            
-            
+
+            currentWeight += weight;
         }
-        return days>=0;
+
+        return requiredDays <= days;
     }
+
     int shipWithinDays(vector<int>& weights, int days) {
-        int sum=0;
-        int maxc=0;
-        for(int i:weights){
-            sum+=i;
-            maxc=max(maxc,i);
+        int low = *max_element(weights.begin(), weights.end());
+        int high = accumulate(weights.begin(), weights.end(), 0);
+
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+
+            if (isPossible(weights, mid, days)) {
+                high = mid;
+            } else {
+                low = mid + 1;
+            }
         }
-        int l=maxc;
-        int h=sum;
-        while(l<h){
-            int mid=l+(h-l)/2;
-            if(isPossible(weights,mid,days)) h=mid;
-            else l=mid+1;
-        }
-        return l;
+
+        return low;
     }
 };
