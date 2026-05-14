@@ -1,30 +1,31 @@
 class Solution {
 public:
 
-    int sum(vector<int>& nums, int r) {
-        int res = 0;
+    int getSum(const vector<int>& nums, int d, int threshold) {
 
-        for(int i : nums) {
-            res += (i + r - 1) / r;
+        int sum = 0;
+
+        for(int x : nums) {
+
+            sum += (x + d - 1) / d;
+
+            if(sum > threshold)
+                return sum;
         }
 
-        return res;
+        return sum;
     }
 
     int smallestDivisor(vector<int>& nums, int threshold) {
 
-        int maxv = *max_element(nums.begin(), nums.end());
-
         int l = 1;
-        int h = maxv;
+        int h = *max_element(nums.begin(), nums.end());
 
         while(l < h) {
 
             int mid = l + (h - l) / 2;
 
-            int v = sum(nums, mid);
-
-            if(v <= threshold)
+            if(getSum(nums, mid, threshold) <= threshold)
                 h = mid;
             else
                 l = mid + 1;
