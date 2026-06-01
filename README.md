@@ -322,6 +322,7 @@ This contains solutions of leetcode problems I solved..
 | [0930-binary-subarrays-with-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/itsdevansh5/DSA-grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/itsdevansh5/DSA-grind/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/itsdevansh5/DSA-grind/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -465,6 +466,7 @@ This contains solutions of leetcode problems I solved..
 | [1108-defanging-an-ip-address](https://github.com/itsdevansh5/DSA-grind/tree/master/1108-defanging-an-ip-address) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/itsdevansh5/DSA-grind/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1208-get-equal-substrings-within-budget](https://github.com/itsdevansh5/DSA-grind/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-balloons](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/itsdevansh5/DSA-grind/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -517,6 +519,7 @@ This contains solutions of leetcode problems I solved..
 | [0930-binary-subarrays-with-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/itsdevansh5/DSA-grind/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itsdevansh5/DSA-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1352-product-of-the-last-k-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1480-running-sum-of-1d-array) |
@@ -689,6 +692,7 @@ This contains solutions of leetcode problems I solved..
 | [1046-max-consecutive-ones-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1095-find-in-mountain-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/itsdevansh5/DSA-grind/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1208-get-equal-substrings-within-budget](https://github.com/itsdevansh5/DSA-grind/tree/master/1208-get-equal-substrings-within-budget) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/itsdevansh5/DSA-grind/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/itsdevansh5/DSA-grind/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/itsdevansh5/DSA-grind/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
