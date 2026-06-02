@@ -129,6 +129,7 @@ This contains solutions of leetcode problems I solved..
 | [0523-continuous-subarray-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/itsdevansh5/DSA-grind/tree/master/0528-random-pick-with-weight) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/itsdevansh5/DSA-grind/tree/master/0575-distribute-candies) |
@@ -257,6 +258,7 @@ This contains solutions of leetcode problems I solved..
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/itsdevansh5/DSA-grind/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/itsdevansh5/DSA-grind/tree/master/0575-distribute-candies) |
@@ -355,6 +357,7 @@ This contains solutions of leetcode problems I solved..
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
@@ -630,6 +633,7 @@ This contains solutions of leetcode problems I solved..
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/itsdevansh5/DSA-grind/tree/master/0443-string-compression) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0680-valid-palindrome-ii) |
@@ -678,6 +682,7 @@ This contains solutions of leetcode problems I solved..
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/itsdevansh5/DSA-grind/tree/master/0374-guess-number-higher-or-lower) |
 | [0528-random-pick-with-weight](https://github.com/itsdevansh5/DSA-grind/tree/master/0528-random-pick-with-weight) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
