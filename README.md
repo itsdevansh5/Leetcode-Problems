@@ -65,6 +65,7 @@ This contains solutions of leetcode problems I solved..
 | [3432-count-partitions-with-even-sum-difference](https://github.com/itsdevansh5/DSA-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/itsdevansh5/DSA-grind/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
@@ -513,6 +514,7 @@ This contains solutions of leetcode problems I solved..
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -888,6 +890,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0204-count-primes](https://github.com/itsdevansh5/DSA-grind/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/itsdevansh5/DSA-grind/tree/master/1925-count-square-sum-triples) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Reservoir Sampling
 |  |
 | ------- |
