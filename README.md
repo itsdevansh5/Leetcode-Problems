@@ -123,6 +123,7 @@ This contains solutions of leetcode problems I solved..
 | [0349-intersection-of-two-arrays](https://github.com/itsdevansh5/DSA-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/itsdevansh5/DSA-grind/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/itsdevansh5/DSA-grind/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -510,6 +511,7 @@ This contains solutions of leetcode problems I solved..
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0357-count-numbers-with-unique-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/itsdevansh5/DSA-grind/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
@@ -523,6 +525,7 @@ This contains solutions of leetcode problems I solved..
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/itsdevansh5/DSA-grind/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/itsdevansh5/DSA-grind/tree/master/0528-random-pick-with-weight) |
@@ -693,6 +696,7 @@ This contains solutions of leetcode problems I solved..
 | [0349-intersection-of-two-arrays](https://github.com/itsdevansh5/DSA-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/itsdevansh5/DSA-grind/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/itsdevansh5/DSA-grind/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0540-single-element-in-a-sorted-array) |
@@ -742,6 +746,7 @@ This contains solutions of leetcode problems I solved..
 | [0011-container-with-most-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0680-valid-palindrome-ii) |
 | [0738-monotone-increasing-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/itsdevansh5/DSA-grind/tree/master/0763-partition-labels) |
