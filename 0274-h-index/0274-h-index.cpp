@@ -1,23 +1,30 @@
 class Solution {
 public:
-    int hIndex(vector<int>& citations) {
-        int n=citations.size();
-        int l=0;
-        for(int i=0;i<n;i++) l=max(l,citations[i]);
-        vector<int>h(l+1,0);
-        for(int i=0;i<n;i++){
-          int v=citations[i];
-          for(int i=0;i<=v;i++){
-            h[i]++;
-          }
-        }
-        int maxv=0;
-        for(int i=0;i<l+1;i++){
-          if(h[i]>=i) maxv=max(maxv,i);
-        }
-        return maxv;
+    bool isPossible(vector<int>&citations,int v){
+       int l=0;
+       int h=citations.size()-1;
+       while(l<=h){
+        int mid=l+(h-l)/2;
+        if(citations[mid]>=v) h=mid-1;
+        else l=mid+1;
+       }
+       return (citations.size()-l>=v);
 
-        
-        
+    }
+    int hIndex(vector<int>& citations) {
+      int n=citations.size();
+        std::sort(citations.begin(),citations.end());
+        int low=0;
+        int high=1000;
+        int res=0;
+        while(low<=high){
+          int mid=low+(high-low)/2;
+          if(isPossible(citations,mid)){
+             res=mid;
+             low=mid+1;
+          }
+          else high=mid-1;
+        }
+        return res;
     }
 };
