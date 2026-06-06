@@ -14,7 +14,7 @@ public:
     }
     int maxPoints(vector<vector<int>>& points) {
         int maxp=0;
-        for(int i=0;i<points.size();i++){
+        for(int i=0;i<points.size()-1;i++){
           unordered_map<string,int>mp;
           for(int j=i+1;j<points.size();j++){
              int x1=points[i][0];
