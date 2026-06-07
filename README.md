@@ -127,6 +127,7 @@ This contains solutions of leetcode problems I solved..
 | [0380-insert-delete-getrandom-o1](https://github.com/itsdevansh5/DSA-grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/itsdevansh5/DSA-grind/tree/master/0413-arithmetic-slices) |
+| [0436-find-right-interval](https://github.com/itsdevansh5/DSA-grind/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/itsdevansh5/DSA-grind/tree/master/0485-max-consecutive-ones) |
@@ -365,6 +366,7 @@ This contains solutions of leetcode problems I solved..
 | [0347-top-k-frequent-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/itsdevansh5/DSA-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0436-find-right-interval](https://github.com/itsdevansh5/DSA-grind/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -700,6 +702,7 @@ This contains solutions of leetcode problems I solved..
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/itsdevansh5/DSA-grind/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/itsdevansh5/DSA-grind/tree/master/0436-find-right-interval) |
 | [0528-random-pick-with-weight](https://github.com/itsdevansh5/DSA-grind/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0540-single-element-in-a-sorted-array) |
