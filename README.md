@@ -155,6 +155,7 @@ This contains solutions of leetcode problems I solved..
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0811-subdomain-visit-count](https://github.com/itsdevansh5/DSA-grind/tree/master/0811-subdomain-visit-count) |
+| [0825-friends-of-appropriate-ages](https://github.com/itsdevansh5/DSA-grind/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/itsdevansh5/DSA-grind/tree/master/0826-most-profit-assigning-work) |
 | [0837-most-common-word](https://github.com/itsdevansh5/DSA-grind/tree/master/0837-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -376,6 +377,7 @@ This contains solutions of leetcode problems I solved..
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/itsdevansh5/DSA-grind/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0791-custom-sort-string) |
+| [0825-friends-of-appropriate-ages](https://github.com/itsdevansh5/DSA-grind/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/itsdevansh5/DSA-grind/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/itsdevansh5/DSA-grind/tree/master/0905-sort-array-by-parity) |
@@ -659,6 +661,7 @@ This contains solutions of leetcode problems I solved..
 | [0763-partition-labels](https://github.com/itsdevansh5/DSA-grind/tree/master/0763-partition-labels) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/itsdevansh5/DSA-grind/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0825-friends-of-appropriate-ages](https://github.com/itsdevansh5/DSA-grind/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/itsdevansh5/DSA-grind/tree/master/0826-most-profit-assigning-work) |
 | [0874-backspace-string-compare](https://github.com/itsdevansh5/DSA-grind/tree/master/0874-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/itsdevansh5/DSA-grind/tree/master/0881-boats-to-save-people) |
@@ -715,6 +718,7 @@ This contains solutions of leetcode problems I solved..
 | [0754-reach-a-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0754-reach-a-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/itsdevansh5/DSA-grind/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0792-binary-search](https://github.com/itsdevansh5/DSA-grind/tree/master/0792-binary-search) |
+| [0825-friends-of-appropriate-ages](https://github.com/itsdevansh5/DSA-grind/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/itsdevansh5/DSA-grind/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/itsdevansh5/DSA-grind/tree/master/0907-koko-eating-bananas) |
