@@ -203,6 +203,7 @@ This contains solutions of leetcode problems I solved..
 | [2078-two-furthest-houses-with-different-colors](https://github.com/itsdevansh5/DSA-grind/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/itsdevansh5/DSA-grind/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/itsdevansh5/DSA-grind/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/itsdevansh5/DSA-grind/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/itsdevansh5/DSA-grind/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -595,6 +596,7 @@ This contains solutions of leetcode problems I solved..
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/itsdevansh5/DSA-grind/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/itsdevansh5/DSA-grind/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/itsdevansh5/DSA-grind/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -667,6 +669,7 @@ This contains solutions of leetcode problems I solved..
 | [0977-squares-of-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/itsdevansh5/DSA-grind/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/itsdevansh5/DSA-grind/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itsdevansh5/DSA-grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
