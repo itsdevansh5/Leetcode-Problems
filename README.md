@@ -130,6 +130,7 @@ This contains solutions of leetcode problems I solved..
 | [0436-find-right-interval](https://github.com/itsdevansh5/DSA-grind/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0475-heaters](https://github.com/itsdevansh5/DSA-grind/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/itsdevansh5/DSA-grind/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0503-next-greater-element-ii) |
@@ -372,6 +373,7 @@ This contains solutions of leetcode problems I solved..
 | [0436-find-right-interval](https://github.com/itsdevansh5/DSA-grind/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/itsdevansh5/DSA-grind/tree/master/0451-sort-characters-by-frequency) |
+| [0475-heaters](https://github.com/itsdevansh5/DSA-grind/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0628-maximum-product-of-three-numbers) |
@@ -655,6 +657,7 @@ This contains solutions of leetcode problems I solved..
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/itsdevansh5/DSA-grind/tree/master/0443-string-compression) |
+| [0475-heaters](https://github.com/itsdevansh5/DSA-grind/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0633-sum-of-square-numbers) |
@@ -710,6 +713,7 @@ This contains solutions of leetcode problems I solved..
 | [0374-guess-number-higher-or-lower](https://github.com/itsdevansh5/DSA-grind/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/itsdevansh5/DSA-grind/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/itsdevansh5/DSA-grind/tree/master/0475-heaters) |
 | [0528-random-pick-with-weight](https://github.com/itsdevansh5/DSA-grind/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0540-single-element-in-a-sorted-array) |
