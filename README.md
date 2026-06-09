@@ -224,6 +224,7 @@ This contains solutions of leetcode problems I solved..
 | [3606-coupon-code-validator](https://github.com/itsdevansh5/DSA-grind/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/3731-find-missing-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3790-fruits-into-baskets-ii) |
 | [3903-smallest-stable-index-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3903-smallest-stable-index-i) |
@@ -772,6 +773,7 @@ This contains solutions of leetcode problems I solved..
 | [2078-two-furthest-houses-with-different-colors](https://github.com/itsdevansh5/DSA-grind/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3689-maximum-total-subarray-value-i) |
 ## Trie
 |  |
 | ------- |
