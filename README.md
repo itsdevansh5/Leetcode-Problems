@@ -99,6 +99,7 @@ This contains solutions of leetcode problems I solved..
 | [0119-pascals-triangle-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/itsdevansh5/DSA-grind/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/itsdevansh5/DSA-grind/tree/master/0149-max-points-on-a-line) |
@@ -765,6 +766,7 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/itsdevansh5/DSA-grind/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0410-split-array-largest-sum) |
