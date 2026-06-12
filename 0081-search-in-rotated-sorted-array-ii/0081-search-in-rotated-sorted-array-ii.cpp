@@ -1,9 +1,27 @@
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]==target)
-            return true;
+        int l=0;
+        int h=nums.size()-1;
+        while(l<=h){
+          int mid=l+(h-l)/2;
+          if(nums[mid]==target) return true;
+
+          if(nums[l]==nums[mid] && nums[mid]==nums[h]){
+            l++;
+            h--;
+            continue;
+          }
+          if(nums[mid]>=nums[l]){
+            if(nums[mid]>target && nums[l]<=target) h=mid-1;
+            else l=mid+1;
+          }
+          else{
+            if(nums[mid]<target && nums[h]>=target) l=mid+1;
+            else h=mid-1;
+          }
+
+      
         }
         return false;
     }
