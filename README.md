@@ -679,6 +679,7 @@ This contains solutions of leetcode problems I solved..
 | [0977-squares-of-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/itsdevansh5/DSA-grind/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itsdevansh5/DSA-grind/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -823,6 +824,7 @@ This contains solutions of leetcode problems I solved..
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/itsdevansh5/DSA-grind/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/itsdevansh5/DSA-grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -861,6 +863,7 @@ This contains solutions of leetcode problems I solved..
 | [0622-design-circular-queue](https://github.com/itsdevansh5/DSA-grind/tree/master/0622-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0908-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/1019-next-greater-node-in-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Queue
 |  |
