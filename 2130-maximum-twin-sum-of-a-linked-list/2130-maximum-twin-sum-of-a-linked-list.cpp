@@ -12,27 +12,36 @@ class Solution {
 public:
     int pairSum(ListNode* head) {
         int n=0;
-        ListNode * temp=head;
+        ListNode *temp=head;
         while(temp!=nullptr){
           temp=temp->next;
           n++;
         }
-        vector<int>arr(n);
+        int half=0;
         temp=head;
-        int i=0;
-        while(temp!=nullptr){
-          arr[i]=temp->val;
-          i++;
+        while(half<((n/2)-1)){
           temp=temp->next;
+          half++;
         }
-        int l=0;
-        int h=n-1;
+        ListNode * head2=temp->next;
+        temp->next=nullptr;
+        ListNode * prev=nullptr;
+        ListNode * nex=head2;
+  
+        while(head2!=nullptr){
+          nex=head2->next;
+          head2->next=prev;
+          prev=head2;
+          head2=nex;
+        }
         int maxs=0;
-        while(l<h){
-               maxs=max(maxs,arr[l]+arr[h]);
-               l++;
-               h--;
+        temp=head;
+        while(temp!=nullptr && prev!=nullptr){
+          maxs=max(maxs,temp->val+prev->val);
+          temp=temp->next;
+          prev=prev->next;
         }
         return maxs;
+        
     }
 };
