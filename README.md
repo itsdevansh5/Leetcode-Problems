@@ -514,6 +514,7 @@ This contains solutions of leetcode problems I solved..
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/itsdevansh5/DSA-grind/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 | [2833-furthest-point-from-origin](https://github.com/itsdevansh5/DSA-grind/tree/master/2833-furthest-point-from-origin) |
 | [3606-coupon-code-validator](https://github.com/itsdevansh5/DSA-grind/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/itsdevansh5/DSA-grind/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -613,6 +614,7 @@ This contains solutions of leetcode problems I solved..
 | [2161-partition-array-according-to-given-pivot](https://github.com/itsdevansh5/DSA-grind/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3612-process-string-with-special-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/itsdevansh5/DSA-grind/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3790-fruits-into-baskets-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
