@@ -35,6 +35,7 @@ This contains solutions of leetcode problems I solved..
 | [0398-random-pick-index](https://github.com/itsdevansh5/DSA-grind/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/itsdevansh5/DSA-grind/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0445-add-two-numbers-ii) |
+| [0458-poor-pigs](https://github.com/itsdevansh5/DSA-grind/tree/master/0458-poor-pigs) |
 | [0483-smallest-good-base](https://github.com/itsdevansh5/DSA-grind/tree/master/0483-smallest-good-base) |
 | [0504-base-7](https://github.com/itsdevansh5/DSA-grind/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0507-perfect-number) |
@@ -533,6 +534,7 @@ This contains solutions of leetcode problems I solved..
 | [0392-is-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/itsdevansh5/DSA-grind/tree/master/0413-arithmetic-slices) |
+| [0458-poor-pigs](https://github.com/itsdevansh5/DSA-grind/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/itsdevansh5/DSA-grind/tree/master/1013-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/itsdevansh5/DSA-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -974,4 +976,8 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/itsdevansh5/DSA-grind/tree/master/0149-max-points-on-a-line) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/itsdevansh5/DSA-grind/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
