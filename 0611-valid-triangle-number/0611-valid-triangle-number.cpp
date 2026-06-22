@@ -21,9 +21,8 @@ public:
           for(int j=i+1;j<n-1;j++){
              int s=nums[i]+nums[j];
              int idx=lb(nums,s,j+1);
-             if(idx>j+1){
               tot+=(idx-j-1);
-             }
+            
 
           }
          }
