@@ -1,13 +1,11 @@
 class Solution {
 public:
     int check(long long n){
-      int f=0;
 
-      while(n>0){
-         f=n%10;
+      while(n>=10){
          n/=10;
       }
-      return f;
+      return n;
     }
     int countValidSubarrays(vector<int>& nums, int x) {
         int n=nums.size();
