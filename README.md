@@ -149,6 +149,7 @@ This contains solutions of leetcode problems I solved..
 | [0575-distribute-candies](https://github.com/itsdevansh5/DSA-grind/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/itsdevansh5/DSA-grind/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0611-valid-triangle-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/itsdevansh5/DSA-grind/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0648-replace-words) |
@@ -385,6 +386,7 @@ This contains solutions of leetcode problems I solved..
 | [0475-heaters](https://github.com/itsdevansh5/DSA-grind/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/itsdevansh5/DSA-grind/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/itsdevansh5/DSA-grind/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -679,6 +681,7 @@ This contains solutions of leetcode problems I solved..
 | [0475-heaters](https://github.com/itsdevansh5/DSA-grind/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0541-reverse-string-ii) |
+| [0611-valid-triangle-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/itsdevansh5/DSA-grind/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -739,6 +742,7 @@ This contains solutions of leetcode problems I solved..
 | [0528-random-pick-with-weight](https://github.com/itsdevansh5/DSA-grind/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/itsdevansh5/DSA-grind/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/itsdevansh5/DSA-grind/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/itsdevansh5/DSA-grind/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -792,6 +796,7 @@ This contains solutions of leetcode problems I solved..
 | [0409-longest-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/itsdevansh5/DSA-grind/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0611-valid-triangle-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0680-valid-palindrome-ii) |
 | [0738-monotone-increasing-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/itsdevansh5/DSA-grind/tree/master/0763-partition-labels) |
