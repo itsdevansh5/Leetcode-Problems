@@ -236,6 +236,7 @@ This contains solutions of leetcode problems I solved..
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3689-maximum-total-subarray-value-i) |
 | [3731-find-missing-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3790-fruits-into-baskets-ii) |
 | [3903-smallest-stable-index-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3904-smallest-stable-index-ii) |
@@ -330,6 +331,7 @@ This contains solutions of leetcode problems I solved..
 | [3583-count-special-triplets](https://github.com/itsdevansh5/DSA-grind/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/itsdevansh5/DSA-grind/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/itsdevansh5/DSA-grind/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Sliding Window
 |  |
@@ -438,6 +440,7 @@ This contains solutions of leetcode problems I solved..
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/itsdevansh5/DSA-grind/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/itsdevansh5/DSA-grind/tree/master/2833-furthest-point-from-origin) |
 | [3583-count-special-triplets](https://github.com/itsdevansh5/DSA-grind/tree/master/3583-count-special-triplets) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -577,6 +580,7 @@ This contains solutions of leetcode problems I solved..
 | [2615-sum-of-distances](https://github.com/itsdevansh5/DSA-grind/tree/master/2615-sum-of-distances) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/itsdevansh5/DSA-grind/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3618-find-the-original-typed-string-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3618-find-the-original-typed-string-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -775,6 +779,7 @@ This contains solutions of leetcode problems I solved..
 | [0169-majority-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -938,6 +943,7 @@ This contains solutions of leetcode problems I solved..
 ## Segment Tree
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -995,4 +1001,8 @@ This contains solutions of leetcode problems I solved..
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/itsdevansh5/DSA-grind/tree/master/0458-poor-pigs) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
