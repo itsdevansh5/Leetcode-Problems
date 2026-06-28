@@ -118,6 +118,7 @@ This contains solutions of leetcode problems I solved..
 | [0209-minimum-size-subarray-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/itsdevansh5/DSA-grind/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/itsdevansh5/DSA-grind/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/itsdevansh5/DSA-grind/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/itsdevansh5/DSA-grind/tree/master/0239-sliding-window-maximum) |
@@ -547,6 +548,7 @@ This contains solutions of leetcode problems I solved..
 | [0119-pascals-triangle-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itsdevansh5/DSA-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0221-maximal-square](https://github.com/itsdevansh5/DSA-grind/tree/master/0221-maximal-square) |
 | [0357-count-numbers-with-unique-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/itsdevansh5/DSA-grind/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0410-split-array-largest-sum) |
@@ -792,6 +794,7 @@ This contains solutions of leetcode problems I solved..
 | [0073-set-matrix-zeroes](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/itsdevansh5/DSA-grind/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/itsdevansh5/DSA-grind/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/itsdevansh5/DSA-grind/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/itsdevansh5/DSA-grind/tree/master/1672-richest-customer-wealth) |
 ## Union Find
