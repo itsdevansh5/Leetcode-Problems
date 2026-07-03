@@ -138,6 +138,7 @@ This contains solutions of leetcode problems I solved..
 | [0442-find-all-duplicates-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/itsdevansh5/DSA-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/itsdevansh5/DSA-grind/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0456-132-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/itsdevansh5/DSA-grind/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/itsdevansh5/DSA-grind/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
@@ -749,6 +750,7 @@ This contains solutions of leetcode problems I solved..
 | [0374-guess-number-higher-or-lower](https://github.com/itsdevansh5/DSA-grind/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/itsdevansh5/DSA-grind/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/itsdevansh5/DSA-grind/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/itsdevansh5/DSA-grind/tree/master/0483-smallest-good-base) |
 | [0528-random-pick-with-weight](https://github.com/itsdevansh5/DSA-grind/tree/master/0528-random-pick-with-weight) |
@@ -858,6 +860,7 @@ This contains solutions of leetcode problems I solved..
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/itsdevansh5/DSA-grind/tree/master/0682-baseball-game) |
@@ -929,6 +932,7 @@ This contains solutions of leetcode problems I solved..
 | [0084-largest-rectangle-in-histogram](https://github.com/itsdevansh5/DSA-grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/itsdevansh5/DSA-grind/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/itsdevansh5/DSA-grind/tree/master/0739-daily-temperatures) |
@@ -966,6 +970,7 @@ This contains solutions of leetcode problems I solved..
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0456-132-pattern) |
 | [2336-smallest-number-in-infinite-set](https://github.com/itsdevansh5/DSA-grind/tree/master/2336-smallest-number-in-infinite-set) |
 | [3790-fruits-into-baskets-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/3790-fruits-into-baskets-ii) |
 ## Randomized
