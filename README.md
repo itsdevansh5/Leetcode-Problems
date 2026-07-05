@@ -128,6 +128,7 @@ This contains solutions of leetcode problems I solved..
 | [0275-h-index-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/itsdevansh5/DSA-grind/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/itsdevansh5/DSA-grind/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -692,6 +693,7 @@ This contains solutions of leetcode problems I solved..
 | [0234-palindrome-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/itsdevansh5/DSA-grind/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/itsdevansh5/DSA-grind/tree/master/0349-intersection-of-two-arrays) |
@@ -818,6 +820,7 @@ This contains solutions of leetcode problems I solved..
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/itsdevansh5/DSA-grind/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0321-create-maximum-number) |
 | [0409-longest-palindrome](https://github.com/itsdevansh5/DSA-grind/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/itsdevansh5/DSA-grind/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -868,6 +871,7 @@ This contains solutions of leetcode problems I solved..
 | [0232-implement-queue-using-stacks](https://github.com/itsdevansh5/DSA-grind/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/itsdevansh5/DSA-grind/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0456-132-pattern) |
@@ -944,6 +948,7 @@ This contains solutions of leetcode problems I solved..
 | [0084-largest-rectangle-in-histogram](https://github.com/itsdevansh5/DSA-grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/itsdevansh5/DSA-grind/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/itsdevansh5/DSA-grind/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/itsdevansh5/DSA-grind/tree/master/0321-create-maximum-number) |
 | [0456-132-pattern](https://github.com/itsdevansh5/DSA-grind/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/itsdevansh5/DSA-grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0503-next-greater-element-ii) |
