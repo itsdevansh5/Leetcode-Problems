@@ -90,6 +90,7 @@ This contains solutions of leetcode problems I solved..
 | [0042-trapping-rain-water](https://github.com/itsdevansh5/DSA-grind/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/itsdevansh5/DSA-grind/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/itsdevansh5/DSA-grind/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/itsdevansh5/DSA-grind/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/itsdevansh5/DSA-grind/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/itsdevansh5/DSA-grind/tree/master/0074-search-a-2d-matrix) |
@@ -380,6 +381,7 @@ This contains solutions of leetcode problems I solved..
 | [0016-3sum-closest](https://github.com/itsdevansh5/DSA-grind/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/itsdevansh5/DSA-grind/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/itsdevansh5/DSA-grind/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/itsdevansh5/DSA-grind/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/itsdevansh5/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/itsdevansh5/DSA-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/itsdevansh5/DSA-grind/tree/master/0217-contains-duplicate) |
